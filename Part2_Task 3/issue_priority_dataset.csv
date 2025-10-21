@@ -1,0 +1,1001 @@
+issue_id,issue_type,severity,component,user_impact,business_impact,complexity,urgency,affected_users,days_old,num_comments,num_assignees,estimated_hours,actual_hours,has_attachments,is_reproducible,requires_approval,is_completed,priority
+ISS-0001,Bug,Low,Database,8,5,7,10,89,87,3,3,23.316604230558497,46.360808476747216,False,True,True,True,High
+ISS-0002,Feature Request,High,API,3,7,4,9,90,88,6,2,1.2799497715478327,,False,True,False,False,High
+ISS-0003,Feature Request,High,Backend,10,2,10,4,104,214,9,1,1.1260795586868497,1.230041787924533,True,True,False,True,High
+ISS-0004,Documentation,Medium,Backend,7,10,9,7,113,32,2,3,9.11911487140816,,True,True,False,False,High
+ISS-0005,Feature Request,Medium,Database,9,10,10,3,95,221,5,2,17.993358513920057,16.975843604064426,False,True,False,True,High
+ISS-0006,Performance,High,API,9,7,1,1,92,115,4,2,3.511248372019713,2.6419916577926617,False,True,True,True,High
+ISS-0007,Bug,High,Backend,3,1,5,1,105,52,7,2,9.030702617101106,5.738421402642256,False,True,True,True,High
+ISS-0008,Feature Request,Medium,Database,10,3,3,4,105,127,7,1,33.214239493130584,29.601983765984542,False,True,False,True,High
+ISS-0009,Bug,High,Database,3,4,8,6,110,74,9,2,42.56242296473126,22.4352083895333,True,True,False,True,High
+ISS-0010,Enhancement,High,API,3,6,7,6,98,282,6,2,12.70727004653864,25.310667896706455,True,False,False,True,High
+ISS-0011,Security,High,Infrastructure,5,3,1,4,95,160,6,2,37.88455798277054,48.39731364513019,False,True,False,True,High
+ISS-0012,Bug,High,Backend,3,2,9,8,117,312,3,1,18.41588099550918,25.19840103997218,False,True,True,True,High
+ISS-0013,Security,Low,Backend,6,1,4,10,112,100,4,1,7.0632715250041676,10.285146471159823,False,True,False,True,High
+ISS-0014,Documentation,High,API,10,7,10,5,91,126,4,2,11.030794302214206,10.147237004248991,False,True,False,True,High
+ISS-0015,Feature Request,High,Database,5,6,9,5,85,203,3,2,9.393405699578368,18.07026923708069,True,True,False,True,High
+ISS-0016,Feature Request,Medium,Mobile,4,8,7,2,121,177,7,1,2.932386269992166,1.6375755663297087,False,True,False,True,High
+ISS-0017,Enhancement,High,Database,9,7,4,10,107,216,7,3,4.333869367446026,,False,True,False,False,High
+ISS-0018,Bug,Low,Infrastructure,4,9,6,3,98,232,6,1,8.379293934755955,6.863411308172862,False,True,False,True,High
+ISS-0019,Security,Low,Backend,5,3,7,2,112,229,2,3,10.79999802504004,6.774369729373496,False,True,False,True,High
+ISS-0020,Performance,Low,API,4,6,3,6,107,18,2,2,1.4636034485274063,0.9898194543768838,False,True,False,True,High
+ISS-0021,Bug,High,Frontend,6,5,6,10,83,19,2,1,44.8413523264244,48.26287069121185,False,False,True,True,High
+ISS-0022,Bug,High,Mobile,8,10,4,10,98,27,7,1,20.34640873599302,,False,True,False,False,High
+ISS-0023,Performance,Low,Mobile,5,7,8,1,110,238,7,1,1.4642157107586897,,False,False,False,False,High
+ISS-0024,Documentation,Low,Backend,3,1,5,9,104,287,2,2,6.17332614904809,,False,False,True,False,High
+ISS-0025,Documentation,Medium,Mobile,5,2,3,7,88,293,6,4,3.8301129223055583,5.923127181875601,False,False,False,True,High
+ISS-0026,Bug,Critical,Infrastructure,5,2,3,9,100,7,7,3,4.385969605212309,2.402226352052244,False,True,False,True,High
+ISS-0027,Bug,High,Database,9,10,9,9,107,106,5,1,4.702280880194958,6.711951826981798,False,True,True,True,High
+ISS-0028,Bug,Medium,Infrastructure,2,10,6,3,98,118,2,1,4.173993841855861,7.662579999647381,False,True,False,True,High
+ISS-0029,Bug,Medium,Backend,8,8,1,3,97,179,6,1,3.2584547951611276,2.541107718788942,True,False,True,True,High
+ISS-0030,Feature Request,Medium,API,8,6,2,4,111,61,6,2,6.667879701157588,4.482517049514684,True,True,True,True,High
+ISS-0031,Feature Request,Medium,Frontend,6,2,8,10,102,12,3,1,6.1269612175676995,10.363351591985392,False,True,False,True,High
+ISS-0032,Performance,Low,Backend,3,3,1,8,108,348,3,1,14.48082626051207,18.60204243869988,False,True,False,True,High
+ISS-0033,Feature Request,High,Database,6,1,7,1,93,308,6,3,8.742204060502818,16.09298908405356,True,True,False,True,High
+ISS-0034,Enhancement,Critical,Infrastructure,2,10,5,10,96,158,6,3,1.0982251291496457,1.4806957812357862,False,False,False,True,High
+ISS-0035,Bug,High,Backend,10,8,2,9,93,170,8,3,22.789415086099797,,True,False,False,False,High
+ISS-0036,Bug,Low,Infrastructure,7,3,8,5,97,201,1,1,5.062224758837425,9.515886193359218,False,True,False,True,High
+ISS-0037,Bug,Medium,Database,6,8,9,7,90,160,3,2,2.568469121593986,,False,True,False,False,High
+ISS-0038,Feature Request,Medium,Mobile,7,3,8,3,96,304,3,3,5.830677202348974,6.770256551500642,False,True,True,True,High
+ISS-0039,Performance,Low,Backend,10,3,2,1,107,320,5,2,18.475606819765375,29.213992446838574,False,True,False,True,High
+ISS-0040,Security,Low,Infrastructure,5,7,2,7,105,84,1,2,5.377490546942403,,False,True,False,False,High
+ISS-0041,Feature Request,High,Mobile,5,6,9,2,113,341,5,2,6.747025060695452,,False,True,False,False,High
+ISS-0042,Feature Request,High,Mobile,2,7,5,6,118,355,4,1,2.2067555723907804,1.985523008101967,True,True,False,True,High
+ISS-0043,Feature Request,Low,Mobile,10,2,6,1,84,281,7,4,2.160217990710965,1.954709613115094,True,False,False,True,High
+ISS-0044,Security,High,Frontend,10,2,5,9,83,216,4,1,28.461352863806624,18.631957656926588,False,False,False,True,High
+ISS-0045,Enhancement,Medium,API,8,3,8,5,109,197,6,2,59.75149350552087,72.28826369868577,True,True,True,True,High
+ISS-0046,Bug,Medium,Mobile,2,4,7,3,96,272,7,2,14.036185396898668,20.948764757821223,False,True,False,True,High
+ISS-0047,Feature Request,Medium,Backend,7,2,3,7,85,235,8,1,3.708872851342608,3.1540685942696243,True,False,False,True,High
+ISS-0048,Bug,Medium,API,10,5,5,6,104,225,7,1,2.992679188964054,4.995908939606108,True,False,False,True,High
+ISS-0049,Performance,Low,Mobile,10,3,2,2,107,159,4,3,5.891536288047751,5.357993237217088,True,False,True,True,High
+ISS-0050,Bug,Low,Database,2,8,6,8,107,36,4,2,8.179904612704599,,False,True,False,False,High
+ISS-0051,Performance,Medium,API,1,9,9,5,106,187,3,3,2.103711259230045,3.3980456647517525,False,False,False,True,High
+ISS-0052,Bug,High,Infrastructure,1,9,1,8,94,343,3,2,15.666729154921526,12.051568502632586,False,True,False,True,High
+ISS-0053,Performance,High,API,6,1,10,6,96,209,6,1,4.127886161737841,6.8341742591723795,False,True,False,True,High
+ISS-0054,Feature Request,Medium,Mobile,4,2,4,6,88,235,6,1,4.0940427449495935,,True,False,False,False,High
+ISS-0055,Feature Request,Medium,Database,8,9,1,5,89,49,3,4,8.670461515446242,,True,True,False,False,High
+ISS-0056,Feature Request,High,Frontend,6,6,5,5,104,63,1,1,4.987139976685738,6.9821496818808715,False,False,False,True,High
+ISS-0057,Bug,Medium,Frontend,1,9,6,6,92,241,3,1,1.654701516864698,1.1567581977226902,False,False,False,True,High
+ISS-0058,Bug,High,Database,3,6,9,6,104,40,8,3,5.816487775480371,7.5009658512130475,True,True,False,True,High
+ISS-0059,Bug,Low,Backend,3,7,4,8,114,287,7,2,1.5994989746743462,1.4179947612843884,False,True,False,True,High
+ISS-0060,Feature Request,High,API,4,8,2,1,101,249,8,2,8.987824001804348,,False,False,True,False,High
+ISS-0061,Bug,Low,Mobile,5,6,9,6,114,230,5,2,4.146593635111417,,False,True,False,False,High
+ISS-0062,Bug,High,Backend,10,9,1,5,93,0,5,3,10.776703010610929,19.358453130945293,False,True,False,True,High
+ISS-0063,Bug,High,Backend,1,7,3,6,90,160,2,5,27.846434462559273,53.68006398649926,False,True,False,True,High
+ISS-0064,Feature Request,Medium,API,7,4,2,10,108,340,4,2,15.566966892781165,,False,True,False,False,High
+ISS-0065,Feature Request,Critical,Frontend,4,1,1,3,121,303,4,4,5.179245459636778,,False,True,False,False,High
+ISS-0066,Feature Request,High,Infrastructure,3,6,2,2,115,364,3,1,4.651476501033489,7.178162304252686,False,True,False,True,High
+ISS-0067,Bug,Critical,Database,8,10,2,9,97,303,5,1,6.180733749379441,8.18404156347478,False,True,False,True,High
+ISS-0068,Feature Request,Low,Mobile,9,4,3,4,120,289,7,3,5.0853411806811595,,False,True,False,False,High
+ISS-0069,Documentation,High,Frontend,10,10,8,4,99,309,6,1,2.906512753441246,3.245245611001564,False,True,False,True,High
+ISS-0070,Documentation,High,Database,4,7,10,9,85,241,5,1,3.0934761160486675,4.5070127736719545,False,True,True,True,High
+ISS-0071,Bug,Medium,Backend,3,10,6,7,108,279,3,1,1.6620054987823798,3.060227975370376,False,True,False,True,High
+ISS-0072,Bug,Medium,Backend,5,5,8,6,104,299,8,2,26.28962741836268,40.35477095396632,False,True,False,True,High
+ISS-0073,Documentation,High,API,8,4,3,7,98,4,5,3,17.001269556537732,21.42597997975821,True,True,False,True,High
+ISS-0074,Bug,High,Backend,9,9,1,3,98,195,7,2,8.90981733585389,11.57137390865014,True,True,False,True,High
+ISS-0075,Bug,Critical,Database,2,3,2,4,103,280,6,4,14.952937648156679,10.207516221543283,False,True,True,True,High
+ISS-0076,Documentation,High,API,4,2,6,2,105,4,4,2,33.922384621255624,24.19934900573461,False,True,False,True,High
+ISS-0077,Bug,Medium,Frontend,5,7,4,4,106,177,4,2,15.060622008724266,,True,True,False,False,High
+ISS-0078,Bug,High,Backend,7,10,8,7,104,241,3,1,3.4723476786667704,4.336964863485057,True,True,False,True,High
+ISS-0079,Bug,Medium,Database,9,4,6,10,95,59,3,3,14.949799966622876,16.138658362644133,True,False,False,True,High
+ISS-0080,Performance,High,API,1,7,5,8,76,42,3,2,4.9228946289871,9.783675192783555,False,True,False,True,High
+ISS-0081,Feature Request,Medium,Infrastructure,8,10,6,1,95,328,3,3,9.260445068509672,5.212953034473,False,True,False,True,High
+ISS-0082,Enhancement,Medium,API,2,10,1,8,104,314,5,2,1.1023713280054896,,False,False,False,False,High
+ISS-0083,Feature Request,Medium,Infrastructure,5,8,8,7,90,255,4,1,11.356430832483095,,False,False,False,False,High
+ISS-0084,Feature Request,Medium,Database,6,3,7,7,103,228,2,1,11.370509484890286,,False,False,False,False,High
+ISS-0085,Feature Request,Medium,Database,2,9,9,4,102,313,2,4,4.6701771303168265,3.3780889166184784,False,False,False,True,High
+ISS-0086,Feature Request,Medium,Infrastructure,3,10,5,6,98,201,5,2,1.5364174280854548,2.0622207738563163,False,True,False,True,High
+ISS-0087,Bug,Low,Frontend,3,6,8,10,107,191,4,1,1.516668513406826,,False,True,True,False,High
+ISS-0088,Enhancement,Medium,Database,6,7,9,10,103,60,8,3,3.0447278713079595,3.6311400857085743,False,False,False,True,High
+ISS-0089,Enhancement,Critical,Backend,3,1,8,9,92,56,4,1,3.4273018508510655,6.37266292716854,True,True,False,True,High
+ISS-0090,Documentation,Critical,Mobile,4,8,4,2,117,195,3,3,7.358260854582957,13.415606365799238,False,True,False,True,High
+ISS-0091,Feature Request,Low,Mobile,3,7,10,5,103,344,3,3,5.3301402851607005,8.131828097500676,False,True,False,True,High
+ISS-0092,Feature Request,Medium,Frontend,1,2,6,6,113,4,7,2,14.13583830694506,8.169593822406613,True,True,True,True,High
+ISS-0093,Bug,Medium,Infrastructure,8,8,5,6,90,167,3,2,20.194548397229447,25.176922377981693,False,False,False,True,High
+ISS-0094,Documentation,Low,API,10,8,8,9,103,54,6,2,4.609150225586991,,False,True,True,False,High
+ISS-0095,Bug,Medium,Database,5,4,6,6,113,301,5,5,32.20963702714105,22.377312709456746,True,True,False,True,High
+ISS-0096,Bug,High,Database,9,4,6,2,87,363,5,3,14.988598186279184,12.887364130223213,False,True,False,True,High
+ISS-0097,Enhancement,Medium,Infrastructure,1,5,3,1,88,65,1,2,2.4630410122436306,4.895574615633147,True,True,False,True,High
+ISS-0098,Bug,High,Mobile,3,9,5,5,105,38,5,1,4.951215621973347,4.159494331847001,True,True,False,True,High
+ISS-0099,Feature Request,Critical,Infrastructure,10,6,7,6,113,274,4,3,3.644952620858553,,False,True,True,False,High
+ISS-0100,Bug,Critical,API,9,5,3,9,95,195,4,5,8.871765116684724,15.589716515106005,False,True,False,True,High
+ISS-0101,Feature Request,Medium,API,5,3,1,5,106,215,3,4,5.995437770265079,6.062727863961595,True,False,False,True,High
+ISS-0102,Documentation,Medium,API,4,6,3,6,94,346,4,1,6.11675053253767,4.3431139761848785,False,True,False,True,High
+ISS-0103,Bug,Medium,Mobile,4,8,1,6,113,135,1,1,13.979604875405169,17.740140799567385,False,True,True,True,High
+ISS-0104,Enhancement,High,Database,7,7,9,7,101,146,7,2,3.8160883076092684,,False,False,True,False,High
+ISS-0105,Enhancement,Low,Frontend,4,2,2,2,106,81,5,3,5.257420039025023,7.7266995065884725,False,True,True,True,High
+ISS-0106,Bug,High,Database,4,6,5,2,102,349,1,2,3.796921753523021,5.18583508587167,True,True,False,True,High
+ISS-0107,Enhancement,Medium,API,5,6,2,4,106,121,6,3,1.099088759725866,0.5947504115816538,False,True,True,True,High
+ISS-0108,Enhancement,Critical,Frontend,1,4,3,10,105,125,7,1,29.611625548841047,58.22173193919908,True,True,False,True,High
+ISS-0109,Performance,Medium,Database,2,6,5,10,116,169,5,2,2.3150763410945716,4.528551460469368,False,True,False,True,High
+ISS-0110,Bug,High,Database,3,10,2,3,90,20,5,2,6.369486167835801,12.680198432951686,False,True,False,True,High
+ISS-0111,Bug,High,API,5,1,5,4,117,90,6,3,3.581143198330741,,True,True,False,False,High
+ISS-0112,Feature Request,Low,Backend,4,6,1,8,99,191,10,3,5.626411695579812,,True,False,False,False,High
+ISS-0113,Feature Request,Medium,Backend,6,6,3,6,102,276,5,5,10.036398835494026,,True,True,False,False,High
+ISS-0114,Enhancement,High,Mobile,9,1,4,3,104,264,3,1,7.372615801671599,10.067756582364245,True,True,False,True,High
+ISS-0115,Enhancement,High,Backend,10,6,2,2,107,289,7,2,31.898671743810578,33.070026893580774,True,False,False,True,High
+ISS-0116,Feature Request,Medium,Infrastructure,4,4,2,2,107,334,5,1,2.1493775592583697,1.2498588642249757,False,True,False,True,High
+ISS-0117,Bug,High,Infrastructure,1,7,8,2,100,319,3,3,4.007420362350718,,False,False,False,False,High
+ISS-0118,Security,Critical,Backend,7,10,1,9,107,22,4,2,24.056701299998487,29.183422791641352,False,True,False,True,High
+ISS-0119,Bug,Low,Database,2,3,9,7,109,99,7,1,2.1750259398455003,3.4972159157354055,False,True,False,True,High
+ISS-0120,Bug,Low,API,3,9,1,6,110,302,2,1,1.1561348133590168,1.2954074518260799,False,True,False,True,High
+ISS-0121,Bug,Medium,API,10,10,6,1,95,174,4,1,4.66755628012859,5.382912668539215,False,True,False,True,High
+ISS-0122,Enhancement,Medium,Database,5,4,7,4,113,330,4,3,10.906731770265617,,False,True,False,False,High
+ISS-0123,Feature Request,Low,Mobile,8,4,2,6,97,198,4,3,9.083815905739176,13.727421204566298,False,False,False,True,High
+ISS-0124,Feature Request,Low,Frontend,2,10,1,2,99,225,3,1,14.159090418806816,18.688097971735825,True,True,False,True,High
+ISS-0125,Bug,Critical,Frontend,1,2,6,9,94,18,2,1,15.147076521336917,,False,True,False,False,High
+ISS-0126,Security,High,Backend,8,4,1,7,109,43,1,1,21.850529416419214,31.717038374808116,False,False,False,True,High
+ISS-0127,Bug,Medium,Frontend,3,10,4,9,125,88,9,2,4.552547295013229,3.917914778432798,False,True,False,True,High
+ISS-0128,Bug,Critical,Backend,1,1,6,2,106,67,6,3,24.418088935553204,,False,True,False,False,High
+ISS-0129,Bug,Medium,Frontend,3,7,9,4,95,194,2,3,12.894443342876155,22.39999209543738,False,True,False,True,High
+ISS-0130,Performance,High,Mobile,9,9,9,6,97,167,3,1,11.4552765685975,,False,True,False,False,High
+ISS-0131,Feature Request,High,Infrastructure,5,9,3,9,97,227,6,3,2.4648594425035575,,False,True,False,False,High
+ISS-0132,Enhancement,High,Frontend,5,5,6,1,101,291,4,3,2.0411473401922797,3.6244804816633156,True,True,True,True,High
+ISS-0133,Bug,Medium,Mobile,3,1,1,7,102,270,3,3,2.0626104442612623,,False,True,False,False,High
+ISS-0134,Feature Request,Medium,Frontend,1,8,3,5,101,12,10,1,4.00177458381779,,False,True,False,False,High
+ISS-0135,Bug,High,API,5,5,1,6,96,333,3,1,10.054232908867396,8.124846855404973,False,True,False,True,High
+ISS-0136,Bug,Medium,Infrastructure,8,4,8,2,121,217,6,2,2.8296778498262585,1.7291123608809993,False,True,False,True,High
+ISS-0137,Feature Request,Medium,Backend,7,7,6,4,95,107,5,2,5.792687332631868,7.966888245053251,True,True,True,True,High
+ISS-0138,Bug,Medium,Mobile,6,3,5,8,103,24,4,4,2.9926533719192094,,False,True,False,False,High
+ISS-0139,Feature Request,Medium,Backend,3,4,5,9,99,92,7,2,14.646249931205015,27.348677985089243,False,True,True,True,High
+ISS-0140,Performance,High,Backend,3,10,1,2,97,337,9,1,21.28285966962613,27.827294640795795,False,False,False,True,High
+ISS-0141,Documentation,Medium,Mobile,10,6,10,8,99,36,7,2,1.2297581357188374,1.133292368397117,True,True,False,True,High
+ISS-0142,Bug,Medium,Frontend,10,5,2,7,108,82,3,2,7.135276663518752,7.3542136239664115,False,True,False,True,High
+ISS-0143,Security,High,Backend,1,10,10,7,93,316,8,2,8.544091675416398,12.905578143152844,False,True,True,True,High
+ISS-0144,Bug,Critical,Backend,5,6,2,6,102,125,4,1,6.858840008153315,5.953668406820972,False,True,False,True,High
+ISS-0145,Security,Medium,Mobile,9,1,1,3,106,353,6,1,2.2330637781394023,1.8073930759279966,False,True,False,True,High
+ISS-0146,Feature Request,Critical,Frontend,9,3,5,10,93,155,5,1,7.067075137425541,12.232387185980508,False,True,False,True,High
+ISS-0147,Enhancement,Critical,Backend,8,6,6,9,108,115,4,5,7.550758764461658,6.268390667079715,False,True,False,True,High
+ISS-0148,Feature Request,Medium,Backend,2,1,9,2,110,135,6,1,10.992761929038307,16.42017343032727,False,True,False,True,High
+ISS-0149,Enhancement,Medium,Backend,4,10,5,5,105,169,6,3,11.30882433197552,,False,True,False,False,High
+ISS-0150,Feature Request,Low,Frontend,6,9,3,6,109,172,5,3,14.791966219671858,29.213519198742457,False,True,True,True,High
+ISS-0151,Bug,Medium,Infrastructure,6,5,3,5,105,175,10,1,55.446009759114254,89.94872361316605,False,False,False,True,High
+ISS-0152,Bug,Medium,Frontend,3,4,5,3,98,303,1,1,20.873172467516515,,True,True,True,False,High
+ISS-0153,Performance,Medium,Mobile,10,3,9,4,99,152,6,5,32.756330498594494,55.9026444440644,False,True,False,True,High
+ISS-0154,Enhancement,Medium,Backend,8,7,5,5,80,344,5,3,5.858280922302234,10.287437843723227,True,True,False,True,High
+ISS-0155,Enhancement,Low,Infrastructure,4,6,3,8,103,321,4,1,5.403952162507247,7.621033957806735,False,True,False,True,High
+ISS-0156,Performance,Low,Database,5,7,8,9,116,118,6,2,18.797078053682522,24.959055440868998,False,True,False,True,High
+ISS-0157,Bug,Low,API,5,4,3,5,99,359,3,3,4.640550657671975,4.42577921544179,True,False,False,True,High
+ISS-0158,Bug,Low,Infrastructure,2,7,5,6,110,354,0,1,17.661534552703625,34.90540470063967,False,True,False,True,High
+ISS-0159,Bug,High,Backend,3,8,1,10,95,166,3,2,6.092129073402621,8.159604448925775,False,True,False,True,High
+ISS-0160,Bug,Medium,Database,9,8,1,1,90,187,6,2,2.6391915613655925,2.185421369785728,False,True,False,True,High
+ISS-0161,Security,Medium,Frontend,6,3,10,3,116,314,5,3,3.2979261879370565,1.6521953457224972,False,True,False,True,High
+ISS-0162,Bug,Medium,Mobile,1,8,10,8,118,173,4,3,10.698414934610879,17.55220968642287,False,False,False,True,High
+ISS-0163,Enhancement,Medium,Database,5,5,7,1,101,200,5,4,46.01078054217616,,True,True,False,False,High
+ISS-0164,Documentation,Low,Database,1,8,10,3,109,272,8,1,3.6592169100716383,3.4351800309004363,True,True,False,True,High
+ISS-0165,Feature Request,Medium,Infrastructure,2,6,7,5,115,217,7,1,2.2275896480652753,3.952415260179793,False,True,False,True,High
+ISS-0166,Performance,Medium,Infrastructure,9,8,8,7,101,117,8,1,9.71381798397865,10.72026072966017,False,False,False,True,High
+ISS-0167,Enhancement,High,Frontend,2,3,10,5,99,213,3,4,2.1795540215272227,,False,True,False,False,High
+ISS-0168,Bug,High,API,2,5,3,6,102,39,2,3,13.914827808500144,18.99772059703587,True,False,False,True,High
+ISS-0169,Bug,Medium,Frontend,8,3,7,10,110,219,5,1,10.421536335661632,8.751823202653464,True,True,False,True,High
+ISS-0170,Documentation,Low,Infrastructure,3,8,1,1,103,165,7,2,3.8910410060050946,,False,True,False,False,High
+ISS-0171,Bug,Medium,API,6,6,2,2,96,12,4,2,9.358355928487791,14.24369398053419,True,True,False,True,High
+ISS-0172,Performance,Low,Database,4,6,10,5,82,323,3,1,6.843074474634011,,False,False,False,False,High
+ISS-0173,Bug,Low,API,3,7,10,9,94,229,7,3,5.515241800781468,10.327792703739776,False,True,False,True,High
+ISS-0174,Bug,Medium,Database,3,10,1,4,96,213,5,3,49.33473051879476,58.68248924036958,False,True,True,True,High
+ISS-0175,Performance,Medium,API,7,9,2,8,99,205,5,1,1.6393395467559584,2.8610187776882094,False,True,False,True,High
+ISS-0176,Bug,Critical,Backend,6,1,3,2,113,143,2,1,8.100697604571746,15.883042816005728,True,True,False,True,High
+ISS-0177,Performance,High,Infrastructure,8,1,1,8,94,89,4,1,12.169734209697154,15.075904113095925,False,True,False,True,High
+ISS-0178,Bug,Medium,Mobile,7,4,4,9,94,223,2,1,10.556502860264649,15.436317267013642,False,False,False,True,High
+ISS-0179,Bug,Medium,Infrastructure,4,9,4,9,102,4,5,5,2.358732530916813,,False,True,False,False,High
+ISS-0180,Performance,High,Mobile,2,4,10,2,104,351,7,3,1.327733198903399,,True,True,False,False,High
+ISS-0181,Bug,Low,API,3,10,8,2,106,11,4,1,4.799817669379727,2.5322840296463096,False,True,False,True,High
+ISS-0182,Enhancement,High,Infrastructure,6,9,4,2,96,321,2,2,14.150477857587605,,False,True,False,False,High
+ISS-0183,Feature Request,Medium,Frontend,2,5,4,7,101,333,8,5,8.440708901133387,14.824385399805845,False,True,False,True,High
+ISS-0184,Bug,Low,Mobile,8,3,7,6,106,86,3,3,21.047167167329487,13.789076243074772,False,True,True,True,High
+ISS-0185,Bug,Medium,Frontend,3,6,7,8,116,132,4,1,3.198644053307158,3.110290041745096,True,False,False,True,High
+ISS-0186,Feature Request,Low,Database,4,3,1,10,100,193,5,2,10.45826790035186,,False,True,False,False,High
+ISS-0187,Enhancement,High,API,9,6,4,5,110,199,5,1,1.8917747924104922,2.4905543014114415,False,False,True,True,High
+ISS-0188,Feature Request,Medium,Infrastructure,4,6,1,10,102,262,7,1,1.4685058646209694,,False,True,False,False,High
+ISS-0189,Documentation,Medium,Database,6,9,7,7,95,312,3,1,9.58594775840109,,False,True,True,False,High
+ISS-0190,Performance,Medium,Backend,5,6,4,10,121,209,3,1,17.20989375925477,12.8008391238967,True,True,False,True,High
+ISS-0191,Bug,Critical,Backend,9,3,8,8,111,122,5,3,4.7159460590509745,6.062325664343356,False,True,False,True,High
+ISS-0192,Bug,Medium,API,4,2,10,5,91,345,3,2,6.810046980465344,12.96568843724289,False,False,False,True,High
+ISS-0193,Bug,Low,Mobile,7,1,5,2,105,273,5,3,15.005284672948905,15.450256387516246,False,False,False,True,High
+ISS-0194,Documentation,Medium,Database,7,3,7,1,103,214,6,1,11.847472693036071,16.551081378126483,False,False,False,True,High
+ISS-0195,Bug,High,API,3,5,3,8,103,8,3,1,2.639255336888164,3.8753724062123918,False,False,False,True,High
+ISS-0196,Bug,High,Frontend,10,9,4,9,81,24,3,1,9.879837235566905,11.027708489266027,False,True,False,True,High
+ISS-0197,Bug,Critical,Database,10,8,6,8,95,268,2,1,8.087974459161831,8.071634382183355,False,True,False,True,High
+ISS-0198,Documentation,High,Backend,6,8,9,1,98,150,1,3,3.546787013785362,,False,True,True,False,High
+ISS-0199,Security,Low,Database,8,6,7,6,81,172,6,1,9.85039075573589,11.10714596569783,False,True,True,True,High
+ISS-0200,Feature Request,Medium,Mobile,2,8,3,8,93,339,6,2,4.053662222107981,,False,True,False,False,High
+ISS-0201,Feature Request,Low,Mobile,6,6,2,8,88,224,4,3,2.7481769957243705,4.926099919092527,False,True,False,True,High
+ISS-0202,Feature Request,Medium,Database,9,1,10,3,90,359,5,1,1.7350649572241204,2.215879646576285,True,True,False,True,High
+ISS-0203,Bug,Medium,Frontend,9,10,4,1,115,275,5,1,9.139697710366182,5.352899266102268,True,False,True,True,High
+ISS-0204,Bug,Medium,Mobile,10,8,9,4,101,59,9,1,9.910835520380264,,True,True,False,False,High
+ISS-0205,Feature Request,Medium,Mobile,3,6,3,8,112,34,5,2,1.9234090634483065,1.8761199986745396,False,True,False,True,High
+ISS-0206,Performance,Medium,Frontend,6,8,2,7,113,336,4,1,1.0412230472186483,0.6522044848388702,True,False,False,True,High
+ISS-0207,Bug,Medium,Frontend,1,8,8,6,93,245,4,1,14.742964661115193,21.437317566910572,False,True,False,True,High
+ISS-0208,Documentation,Low,Database,4,3,4,1,95,337,6,1,23.78653245480543,39.563139091322704,True,True,False,True,High
+ISS-0209,Security,High,API,9,2,2,6,100,191,4,2,8.238185911683049,9.336240125608219,True,False,False,True,High
+ISS-0210,Feature Request,Medium,Backend,7,2,4,5,106,80,5,2,2.9839474282544485,5.587448442243124,False,True,True,True,High
+ISS-0211,Bug,Medium,Frontend,1,1,8,4,101,170,6,3,3.5672272415500923,2.2179104695944196,False,True,False,True,High
+ISS-0212,Performance,Medium,Infrastructure,3,10,2,10,96,69,6,1,5.1331530684462585,8.871648497165891,False,True,False,True,High
+ISS-0213,Bug,High,Database,6,9,7,3,97,211,12,1,1.1678120703358752,,False,True,True,False,High
+ISS-0214,Feature Request,Medium,API,6,8,10,1,112,272,5,1,7.2918482306792285,11.206622758775794,False,True,False,True,High
+ISS-0215,Enhancement,Medium,Infrastructure,5,10,6,3,97,278,7,3,6.604413963758762,,False,True,False,False,High
+ISS-0216,Documentation,Medium,Mobile,2,1,9,9,118,31,11,4,9.578070106373174,18.192921001458647,False,True,False,True,High
+ISS-0217,Bug,Medium,Backend,2,4,2,7,98,277,5,1,7.308288900430248,9.617413427219779,False,True,False,True,High
+ISS-0218,Documentation,High,Frontend,5,2,8,10,108,182,4,2,2.797796284636556,,True,True,False,False,High
+ISS-0219,Feature Request,Critical,Mobile,5,7,3,10,118,153,6,2,3.9939630464094176,,False,False,False,False,High
+ISS-0220,Enhancement,High,API,8,6,1,1,98,347,4,2,6.303885441936436,6.74971404928833,False,True,False,True,High
+ISS-0221,Documentation,High,Backend,1,8,2,10,101,65,2,1,2.191417974190987,,False,True,False,False,High
+ISS-0222,Performance,Medium,Database,2,6,4,6,86,245,6,3,16.04722463700277,18.382413533599212,False,True,False,True,High
+ISS-0223,Bug,High,Mobile,8,5,9,6,113,34,4,2,14.791680803554735,24.96594594081362,False,True,True,True,High
+ISS-0224,Enhancement,Medium,Frontend,4,2,5,3,118,353,3,1,5.192497514926515,3.6584026371908336,False,True,False,True,High
+ISS-0225,Bug,Medium,Infrastructure,2,5,6,5,88,19,4,2,4.279682301694006,,False,True,False,False,High
+ISS-0226,Bug,Low,Infrastructure,5,9,7,8,100,219,3,2,12.71394798198144,17.357232819804292,True,True,False,True,High
+ISS-0227,Bug,Critical,Frontend,5,2,2,1,98,245,8,2,3.6793118924021035,6.520742356506317,True,True,False,True,High
+ISS-0228,Bug,Critical,Backend,5,9,8,2,117,181,5,1,27.52423676624636,38.66658709570202,False,False,False,True,High
+ISS-0229,Bug,Medium,API,9,5,5,10,108,177,6,1,2.8760330864598282,5.511380332646721,False,True,False,True,High
+ISS-0230,Documentation,High,Database,4,8,5,10,84,243,8,1,4.22980324289218,,False,True,False,False,High
+ISS-0231,Enhancement,Critical,Database,6,3,10,6,97,8,6,2,5.704151950506895,,True,True,False,False,High
+ISS-0232,Bug,High,Database,8,3,10,6,89,293,4,4,2.1238370021829214,,False,True,False,False,High
+ISS-0233,Performance,Medium,Backend,9,4,4,3,107,241,4,1,15.010989764193154,8.735126935931879,False,True,False,True,High
+ISS-0234,Performance,High,Backend,4,4,4,4,97,54,7,1,11.196785817678983,8.693767810163433,True,True,True,True,High
+ISS-0235,Feature Request,Medium,Infrastructure,3,4,2,1,87,220,8,4,1.414620274506796,2.5967638646934796,False,True,False,True,High
+ISS-0236,Documentation,Medium,Mobile,3,10,5,3,84,126,2,1,17.302179754485405,27.15271822455183,True,True,False,True,High
+ISS-0237,Enhancement,Low,Infrastructure,10,10,4,9,99,16,5,1,2.106962250423652,3.724094452461713,True,True,False,True,High
+ISS-0238,Bug,Medium,Backend,1,8,3,7,98,251,2,2,13.742411317309378,21.413906807629758,False,True,True,True,High
+ISS-0239,Bug,High,Infrastructure,2,2,7,1,103,309,5,3,2.0629672804037913,2.7345186616609856,False,False,False,True,High
+ISS-0240,Performance,High,Infrastructure,6,7,4,6,86,216,4,1,30.48046143055109,35.57280667933121,False,True,False,True,High
+ISS-0241,Enhancement,Medium,Backend,6,2,6,10,94,270,3,1,25.513316860064144,20.375958691400697,False,True,True,True,High
+ISS-0242,Bug,High,Infrastructure,3,5,10,9,92,23,7,2,1.7675732202906667,,False,True,False,False,High
+ISS-0243,Enhancement,Low,Mobile,4,2,4,10,99,322,7,4,2.360255633957428,,True,True,False,False,High
+ISS-0244,Feature Request,Low,Backend,10,4,2,3,79,326,4,2,7.459122681916961,8.821258833305293,False,True,False,True,High
+ISS-0245,Performance,Medium,API,1,8,5,1,105,238,5,1,5.525219600799257,,True,True,False,False,High
+ISS-0246,Feature Request,Medium,Database,5,7,5,7,112,346,5,1,14.769323669460722,,False,True,False,False,High
+ISS-0247,Performance,High,API,3,8,4,1,92,101,5,2,33.35647599131661,,True,True,False,False,High
+ISS-0248,Enhancement,Medium,Mobile,9,2,2,6,119,75,10,1,9.795364566815044,5.072793765666988,False,False,False,True,High
+ISS-0249,Feature Request,Low,Database,6,10,10,6,112,263,5,3,6.772757939227824,9.805736017383737,False,True,False,True,High
+ISS-0250,Enhancement,Low,Mobile,6,5,6,7,103,335,4,1,43.0343342974383,,True,False,False,False,High
+ISS-0251,Enhancement,Low,Backend,4,9,10,2,106,128,3,2,4.112697583846744,,False,False,False,False,High
+ISS-0252,Feature Request,Low,API,1,1,1,1,92,310,4,1,12.382897733809878,23.127261569655673,False,True,True,True,Medium
+ISS-0253,Enhancement,Medium,Backend,3,4,5,3,90,102,4,3,2.751889963088748,,False,True,False,False,High
+ISS-0254,Enhancement,High,Mobile,1,8,3,6,96,79,3,2,2.7570277115114283,2.068523086364303,False,True,False,True,High
+ISS-0255,Feature Request,Medium,API,7,7,6,10,100,158,3,1,6.0341390084545035,5.065152837256612,False,True,False,True,High
+ISS-0256,Performance,Low,API,7,7,3,5,121,300,5,1,4.440392267225308,7.491138813575819,True,True,True,True,High
+ISS-0257,Performance,Low,Database,3,2,10,6,94,312,7,4,27.672774820270085,26.26519047312204,True,False,False,True,High
+ISS-0258,Bug,High,Infrastructure,3,4,9,3,111,245,2,4,6.493241243549196,,False,True,True,False,High
+ISS-0259,Bug,Medium,Infrastructure,6,7,3,3,100,52,7,2,1.2337925938570398,1.129804270084511,False,True,False,True,High
+ISS-0260,Performance,Low,Database,4,8,9,3,98,327,8,3,3.5088113155781624,,True,True,False,False,High
+ISS-0261,Bug,Medium,Mobile,6,1,7,1,101,285,5,3,19.785080270143702,27.52509443026716,False,True,False,True,High
+ISS-0262,Bug,Low,Infrastructure,6,10,7,3,105,103,4,1,5.171483419834142,,False,True,True,False,High
+ISS-0263,Security,Medium,Frontend,3,3,2,7,129,128,5,5,4.9463716851260475,,True,True,False,False,High
+ISS-0264,Feature Request,High,Database,10,1,3,2,113,28,3,2,3.955971140896461,6.5455384859838714,False,False,False,True,High
+ISS-0265,Documentation,Medium,Mobile,1,8,10,4,92,247,6,4,3.5565971919197605,7.0217548987816505,False,True,False,True,High
+ISS-0266,Bug,Critical,Mobile,5,10,5,4,102,254,5,3,7.152033164338951,,False,True,False,False,High
+ISS-0267,Documentation,Medium,Mobile,9,6,3,5,120,103,4,2,16.35409581295618,,True,True,False,False,High
+ISS-0268,Bug,Medium,Backend,2,4,1,5,93,279,3,1,5.80141136674938,6.845092181877405,False,True,True,True,High
+ISS-0269,Feature Request,High,Backend,4,3,5,7,96,237,7,2,7.521451327138081,,True,True,True,False,High
+ISS-0270,Feature Request,High,Database,10,8,3,1,106,272,4,2,3.169851849824324,2.945219927762494,False,False,False,True,High
+ISS-0271,Feature Request,Low,Backend,6,7,10,8,91,223,3,4,31.002520027427348,58.437550050006045,True,True,False,True,High
+ISS-0272,Security,High,Backend,6,3,5,3,98,99,4,3,2.7352715904229328,3.913723066070011,False,True,False,True,High
+ISS-0273,Feature Request,Medium,Backend,8,5,2,7,85,201,5,1,1.2640771551743146,,True,False,True,False,High
+ISS-0274,Bug,High,Mobile,5,4,8,9,91,148,2,1,15.484590222511837,19.983040777432528,True,True,False,True,High
+ISS-0275,Feature Request,High,Infrastructure,1,6,3,8,88,228,3,2,2.21816077543938,,False,True,True,False,High
+ISS-0276,Performance,Medium,Backend,3,4,10,2,95,135,4,3,2.332337341035434,2.472346948819952,False,True,True,True,High
+ISS-0277,Bug,High,Infrastructure,5,2,6,4,82,6,1,2,4.873111978037345,,False,True,False,False,High
+ISS-0278,Enhancement,High,Backend,10,3,10,9,109,303,1,1,7.510571638997341,,False,True,False,False,High
+ISS-0279,Bug,Low,Database,1,10,3,6,112,309,13,3,6.688619858460136,7.196423311759123,True,True,False,True,High
+ISS-0280,Bug,High,Database,2,7,5,6,96,151,1,3,1.1755120392611118,0.8762557481383114,False,True,False,True,High
+ISS-0281,Enhancement,Low,Frontend,4,6,9,1,120,185,3,2,4.563097896416575,3.604887723493209,False,True,True,True,High
+ISS-0282,Bug,Medium,Infrastructure,4,7,5,10,85,55,9,2,3.4985347512704617,,True,True,False,False,High
+ISS-0283,Feature Request,Medium,Frontend,9,2,7,7,82,144,6,4,8.645481224906145,12.186490296584159,False,True,False,True,High
+ISS-0284,Performance,Critical,Infrastructure,5,9,3,3,116,66,7,2,7.594039582514396,,False,True,False,False,High
+ISS-0285,Documentation,Medium,Frontend,3,8,8,8,95,104,3,1,3.980193383997276,,False,True,False,False,High
+ISS-0286,Performance,High,Backend,6,8,6,9,109,345,4,2,9.769508216014408,18.871115898854274,False,True,False,True,High
+ISS-0287,Enhancement,High,Mobile,2,2,6,8,99,33,1,1,6.531905791320842,3.8781207682406618,True,True,False,True,High
+ISS-0288,Enhancement,Low,Database,10,3,4,2,113,317,10,1,8.18158675526527,11.731275321226676,True,True,False,True,High
+ISS-0289,Bug,Medium,Frontend,1,10,7,7,88,24,6,2,3.7035756164858333,3.403651864816122,False,True,False,True,High
+ISS-0290,Bug,Critical,Mobile,2,7,9,2,92,193,8,1,4.1574602761181705,7.849003508779537,False,True,False,True,High
+ISS-0291,Enhancement,Low,Frontend,5,7,9,9,107,261,4,1,12.450534085005613,,True,True,False,False,High
+ISS-0292,Bug,High,Frontend,2,7,6,5,91,148,4,1,18.04642221945831,28.156125294898604,True,True,False,True,High
+ISS-0293,Performance,Low,Infrastructure,10,2,6,1,100,217,5,1,20.180666346664573,33.371993307867605,False,True,False,True,High
+ISS-0294,Bug,Medium,Backend,10,10,6,4,121,22,2,2,7.04740470643534,9.762460784947358,True,True,False,True,High
+ISS-0295,Enhancement,Medium,Frontend,4,10,6,10,108,291,6,1,5.779845469653425,,False,False,False,False,High
+ISS-0296,Feature Request,Low,Backend,6,9,2,2,85,104,3,1,2.1600072061285864,2.9342093481065104,False,True,False,True,High
+ISS-0297,Documentation,High,Infrastructure,4,2,1,1,105,202,3,1,7.482767951166684,11.098096975859379,False,True,False,True,High
+ISS-0298,Bug,High,API,3,4,10,10,92,349,6,1,1.0313742871554508,1.1444226350950308,False,True,False,True,High
+ISS-0299,Bug,High,Frontend,9,6,2,10,113,210,7,2,13.356075894734703,17.69048207461513,False,True,True,True,High
+ISS-0300,Feature Request,High,Mobile,4,9,2,8,121,200,7,1,7.529376751468581,4.7411450918848965,False,False,False,True,High
+ISS-0301,Security,High,Frontend,1,3,6,5,94,348,6,1,8.398701470243942,,True,True,False,False,High
+ISS-0302,Bug,Medium,Mobile,1,4,4,10,114,230,5,4,4.0015588177754555,5.16291422313449,True,True,False,True,High
+ISS-0303,Feature Request,Medium,Frontend,10,8,5,2,110,19,5,3,13.881611566482304,,False,True,True,False,High
+ISS-0304,Feature Request,High,Frontend,5,8,2,5,96,324,3,4,20.69727430949736,14.110018878467125,False,True,False,True,High
+ISS-0305,Feature Request,Medium,Infrastructure,4,10,7,1,107,325,5,4,26.316362234292892,34.172858286761844,False,True,False,True,High
+ISS-0306,Security,Medium,Mobile,5,6,2,8,94,229,4,1,6.011193403641771,,True,True,True,False,High
+ISS-0307,Feature Request,Medium,Database,2,4,2,1,116,169,9,3,4.78796629272218,,True,False,False,False,High
+ISS-0308,Bug,Medium,API,8,6,5,4,103,204,7,1,5.72027529309823,7.745263889155227,False,True,False,True,High
+ISS-0309,Feature Request,Critical,Frontend,1,8,2,1,100,2,6,1,28.781855235872076,,False,True,False,False,High
+ISS-0310,Performance,Medium,API,10,6,8,9,102,222,4,3,4.479453562111125,5.415049163483067,True,False,False,True,High
+ISS-0311,Performance,Low,Frontend,6,3,6,6,119,360,6,2,4.917514934370181,8.624498062826662,False,True,True,True,High
+ISS-0312,Bug,Medium,Database,5,9,3,4,92,190,6,1,14.235188223647231,20.700817855085738,False,False,False,True,High
+ISS-0313,Bug,Low,Frontend,5,9,9,2,120,115,6,1,5.98227648793843,,False,True,False,False,High
+ISS-0314,Bug,High,Infrastructure,8,7,3,8,101,354,2,4,3.0025856688794974,,False,False,False,False,High
+ISS-0315,Bug,High,API,2,3,8,8,102,265,3,1,4.529440940397762,7.941729504712204,True,False,True,True,High
+ISS-0316,Bug,Low,Backend,6,4,7,10,106,252,8,2,7.787141428422803,,False,False,False,False,High
+ISS-0317,Feature Request,Critical,Frontend,9,2,2,7,117,29,6,4,2.1378013017613418,,False,True,False,False,High
+ISS-0318,Bug,Medium,Frontend,4,3,1,5,115,77,5,3,6.538243864021342,9.261652038941735,True,True,False,True,High
+ISS-0319,Performance,Low,Database,3,5,10,3,105,355,5,4,8.18305343975203,10.252575241140146,False,True,False,True,High
+ISS-0320,Bug,Low,API,9,5,3,8,94,358,4,2,4.865222818358306,,True,True,False,False,High
+ISS-0321,Bug,Medium,Database,5,9,1,4,102,347,5,2,1.3773129205069388,1.3880987146715367,False,False,False,True,High
+ISS-0322,Feature Request,Low,API,2,8,5,6,80,206,7,1,1.358983912914634,,True,True,False,False,High
+ISS-0323,Bug,Low,Infrastructure,5,2,4,10,96,225,1,1,9.627415919835954,15.840994446696033,False,True,True,True,High
+ISS-0324,Performance,Medium,Frontend,9,1,8,1,108,88,5,4,13.940546436720687,13.095579319150975,False,True,False,True,High
+ISS-0325,Enhancement,Medium,Frontend,2,5,10,1,95,229,6,2,5.122300617984526,8.810922259361112,False,True,True,True,High
+ISS-0326,Feature Request,Medium,Database,3,5,5,10,89,309,3,2,10.004555976221013,,False,True,True,False,High
+ISS-0327,Security,Critical,Database,10,1,10,6,107,155,7,4,9.971452198204496,6.473908893995212,True,True,False,True,High
+ISS-0328,Feature Request,Medium,Frontend,3,6,8,6,107,288,3,1,2.6185896445236025,3.508885265901639,False,True,True,True,High
+ISS-0329,Enhancement,High,Frontend,7,6,6,5,103,258,5,3,6.312678562062547,6.042125802186711,True,True,True,True,High
+ISS-0330,Enhancement,High,Mobile,4,3,5,4,102,73,5,1,19.164549062097304,16.123150752805746,True,True,True,True,High
+ISS-0331,Bug,Medium,Infrastructure,3,7,5,9,93,170,5,1,33.948370528953475,,False,False,False,False,High
+ISS-0332,Bug,Low,Frontend,6,1,7,3,104,284,2,2,10.6007406157963,,False,True,True,False,High
+ISS-0333,Bug,Medium,Database,7,1,2,1,113,150,3,3,2.9146924866011314,3.8308304635987063,True,True,False,True,High
+ISS-0334,Performance,Medium,Infrastructure,10,1,1,8,104,41,3,2,7.574186463384099,,False,True,False,False,High
+ISS-0335,Enhancement,High,Mobile,3,9,6,1,112,166,9,1,23.753227763652767,15.62719495178957,False,False,False,True,High
+ISS-0336,Bug,Medium,Database,4,6,10,8,96,267,4,4,8.789592792626902,,False,True,False,False,High
+ISS-0337,Feature Request,Medium,Frontend,3,5,6,9,106,300,4,3,11.325335573102155,,False,True,True,False,High
+ISS-0338,Security,High,Database,2,2,5,1,118,230,4,1,19.575456992290928,16.98991022458257,False,True,False,True,High
+ISS-0339,Feature Request,Low,Mobile,9,3,3,1,101,209,7,1,8.810755850733742,4.721034592974642,False,True,False,True,High
+ISS-0340,Bug,Medium,Infrastructure,4,1,9,4,104,244,6,1,16.17362678178153,,True,True,False,False,High
+ISS-0341,Bug,Medium,Backend,5,8,2,8,101,352,2,4,7.038063941827648,8.612024203519557,False,True,False,True,High
+ISS-0342,Bug,Low,Backend,9,3,3,4,103,234,7,1,1.2523949153019256,2.0577463153354603,False,True,False,True,High
+ISS-0343,Bug,Medium,Mobile,7,6,10,2,99,305,3,4,1.4507602460989522,2.265076551730441,False,True,False,True,High
+ISS-0344,Bug,High,Infrastructure,5,5,10,3,106,111,6,1,21.349036804805174,24.949938735073218,False,True,False,True,High
+ISS-0345,Enhancement,Low,Backend,6,2,4,8,103,56,10,3,8.966118887244335,,False,True,False,False,High
+ISS-0346,Enhancement,High,Infrastructure,7,3,6,5,103,32,3,4,2.438042394580796,2.1825603429622222,True,False,False,True,High
+ISS-0347,Bug,High,API,2,3,10,9,98,224,5,2,25.50133448142772,40.11106491264866,False,False,True,True,High
+ISS-0348,Feature Request,High,API,2,4,6,6,102,228,6,2,15.784454031939907,28.406352285572698,False,True,False,True,High
+ISS-0349,Bug,Low,Database,5,2,10,7,93,106,2,2,5.116992863469121,3.9626145319661794,False,True,False,True,High
+ISS-0350,Documentation,Medium,Database,1,2,2,4,92,165,6,4,6.259205233114398,10.880352890941015,True,True,False,True,High
+ISS-0351,Performance,Low,API,5,4,3,10,96,332,2,1,14.331759924872355,24.485999127167034,False,True,False,True,High
+ISS-0352,Enhancement,Medium,Backend,7,4,6,1,99,50,4,1,11.421020378473843,22.455261295576953,False,True,False,True,High
+ISS-0353,Security,Low,Backend,6,9,9,1,89,172,6,1,18.93750517294307,28.48243436907858,True,True,False,True,High
+ISS-0354,Bug,High,API,5,7,10,3,105,250,3,1,3.5234061421309684,,False,True,False,False,High
+ISS-0355,Feature Request,High,Mobile,3,6,8,9,104,193,4,3,10.299653319216137,19.403090558215926,False,True,False,True,High
+ISS-0356,Enhancement,Critical,Frontend,4,1,4,3,102,199,8,2,14.999600374723707,19.299303602131797,False,True,False,True,High
+ISS-0357,Bug,Medium,Infrastructure,3,2,8,6,100,302,4,3,20.4105685746521,33.89585415000414,True,True,False,True,High
+ISS-0358,Performance,High,API,5,5,8,9,111,342,8,2,4.012481010532408,3.293050451985786,False,True,False,True,High
+ISS-0359,Enhancement,Critical,API,6,6,4,6,88,258,3,3,36.55946917065931,20.879970316835607,False,True,False,True,High
+ISS-0360,Enhancement,Medium,Infrastructure,10,6,10,1,100,65,4,2,2.003949566170939,1.8535427146535624,True,False,False,True,High
+ISS-0361,Bug,Medium,Backend,6,5,5,4,106,323,6,2,10.866686703644906,10.411906618979279,False,True,False,True,High
+ISS-0362,Bug,Low,Database,4,3,10,2,98,271,6,3,1.915832486336619,,False,True,False,False,High
+ISS-0363,Enhancement,Low,Frontend,8,1,3,5,95,92,5,1,17.533242387818635,17.57730088250648,False,True,False,True,High
+ISS-0364,Bug,Medium,Database,6,3,1,2,87,345,2,1,2.372582118020018,3.8937369558042403,False,True,False,True,High
+ISS-0365,Feature Request,High,API,5,10,10,6,90,270,4,2,2.8151401512690994,4.772848451146754,True,True,False,True,High
+ISS-0366,Documentation,Medium,Backend,3,1,2,2,106,317,8,2,5.259655185670558,,False,True,False,False,High
+ISS-0367,Bug,High,Backend,3,10,7,4,100,181,5,1,2.2169120930620485,1.7046820348137735,True,True,False,True,High
+ISS-0368,Documentation,High,Mobile,10,10,5,10,99,87,5,3,13.419743995105824,20.97526223339552,True,True,True,True,High
+ISS-0369,Bug,Medium,Database,7,10,2,10,98,310,2,1,2.6331147049898,3.4633607067075864,True,True,False,True,High
+ISS-0370,Feature Request,Low,Infrastructure,6,5,5,10,110,71,4,1,1.2163123598806136,2.2133426409170087,False,False,True,True,High
+ISS-0371,Feature Request,Low,API,9,10,1,6,96,156,2,1,3.126282077601441,3.988139685493788,False,True,False,True,High
+ISS-0372,Bug,High,API,9,2,3,2,98,282,4,1,15.160078392268876,22.8347167984175,True,True,False,True,High
+ISS-0373,Documentation,Low,Database,4,3,9,4,104,303,7,1,6.702280731951062,7.8599512192856285,False,True,True,True,High
+ISS-0374,Bug,Medium,Database,9,3,5,4,93,110,4,3,1.2468048288869058,,True,True,False,False,High
+ISS-0375,Bug,High,Database,4,5,9,9,94,224,5,2,5.660682682271106,,False,True,False,False,High
+ISS-0376,Bug,Low,Frontend,6,7,5,5,99,335,2,1,1.4306304609946656,,False,True,False,False,High
+ISS-0377,Bug,High,Mobile,9,8,4,5,85,75,6,2,2.2000433675061277,3.9681795483358777,False,False,False,True,High
+ISS-0378,Enhancement,Medium,Frontend,5,6,8,1,91,326,8,1,5.446668387921754,2.907194607156778,False,True,False,True,High
+ISS-0379,Performance,Critical,Frontend,9,5,9,10,96,323,9,3,1.9820240250424281,,False,True,True,False,High
+ISS-0380,Security,Medium,Backend,4,7,9,5,99,56,8,1,3.5021351029227734,,False,True,False,False,High
+ISS-0381,Bug,High,Database,3,9,4,1,111,289,4,2,20.0221912962904,,False,True,False,False,High
+ISS-0382,Enhancement,Medium,Backend,7,10,8,9,98,104,4,2,19.654187428925447,38.75209833378355,False,True,True,True,High
+ISS-0383,Documentation,Medium,Database,3,2,4,2,111,230,9,3,4.547140132848183,5.125518280392604,False,True,False,True,High
+ISS-0384,Performance,Medium,Backend,5,3,10,2,97,143,3,3,22.40316784159042,,True,True,True,False,High
+ISS-0385,Bug,High,API,7,2,3,7,90,18,3,3,2.550565653755692,2.564295016114658,False,True,False,True,High
+ISS-0386,Bug,Medium,Frontend,2,10,6,1,97,199,6,2,11.902168176189713,7.161470245423441,False,True,False,True,High
+ISS-0387,Feature Request,Low,Frontend,5,9,4,1,106,363,6,1,11.879803338762992,14.03303201206631,False,True,True,True,High
+ISS-0388,Bug,Medium,API,3,7,2,3,109,248,3,1,26.329376051116746,,False,True,False,False,High
+ISS-0389,Bug,Medium,API,9,4,10,6,82,84,3,2,5.2402161266647225,,False,True,False,False,High
+ISS-0390,Bug,High,API,4,10,5,3,100,105,4,1,11.088069194655835,12.255897143813078,False,True,False,True,High
+ISS-0391,Documentation,High,API,7,2,6,8,112,132,4,1,8.746751415906928,5.5075549789063105,False,True,False,True,High
+ISS-0392,Enhancement,High,Infrastructure,6,10,6,8,94,331,1,3,9.78816408090893,9.187784591613394,False,True,False,True,High
+ISS-0393,Feature Request,Critical,Backend,4,2,5,3,105,176,3,1,2.9291548778559564,3.9878695236657755,False,False,False,True,High
+ISS-0394,Enhancement,Critical,Infrastructure,5,8,3,7,105,331,1,4,1.9548113185047313,1.9538562946108615,True,True,False,True,High
+ISS-0395,Bug,High,API,10,8,6,6,107,311,4,2,6.590796256839837,12.610503835655901,False,True,False,True,High
+ISS-0396,Bug,High,Database,8,9,6,10,99,269,3,4,8.408181711426298,,False,False,False,False,High
+ISS-0397,Feature Request,Medium,Backend,7,6,9,7,97,140,5,3,4.9447553296871485,5.901774010623757,False,False,False,True,High
+ISS-0398,Performance,Medium,Mobile,10,4,1,7,96,169,4,2,9.503633880751533,,False,True,True,False,High
+ISS-0399,Feature Request,Medium,API,1,6,4,1,102,76,6,2,4.773375086294694,,False,True,False,False,High
+ISS-0400,Bug,Medium,API,5,5,1,8,117,60,6,3,21.993741613778212,32.75238694606838,True,True,False,True,High
+ISS-0401,Feature Request,High,Backend,3,3,3,7,102,218,5,3,4.619188498088626,,False,True,False,False,High
+ISS-0402,Enhancement,High,Infrastructure,8,5,6,2,93,309,6,1,7.8556792500302555,,True,True,False,False,High
+ISS-0403,Performance,Low,API,8,7,6,2,94,264,6,2,1.369322277706051,,False,True,False,False,High
+ISS-0404,Feature Request,Medium,Frontend,6,5,3,5,97,276,5,4,4.80104728449042,8.104190329268162,False,True,False,True,High
+ISS-0405,Bug,Low,Mobile,9,7,2,7,93,303,6,3,26.93391249073986,,False,True,False,False,High
+ISS-0406,Bug,Medium,API,7,4,10,1,110,303,7,1,5.182703852446733,6.821838501199275,False,True,False,True,High
+ISS-0407,Bug,High,Backend,5,9,1,5,103,274,4,1,2.133124305730206,2.4694321876971217,False,True,False,True,High
+ISS-0408,Feature Request,Medium,Mobile,3,1,9,9,87,33,8,2,2.8456135739858515,,True,True,False,False,High
+ISS-0409,Performance,High,Infrastructure,3,1,5,2,97,9,3,1,7.157949111847438,,True,True,False,False,High
+ISS-0410,Feature Request,High,Infrastructure,3,6,9,9,100,155,3,2,4.307695236770035,4.832034228483696,False,True,True,True,High
+ISS-0411,Bug,Medium,Mobile,5,5,9,8,98,110,4,3,2.1113959185998796,2.6611932264510667,False,False,True,True,High
+ISS-0412,Bug,High,Backend,2,10,8,5,109,333,4,1,5.329860016100447,,True,False,False,False,High
+ISS-0413,Enhancement,Low,Backend,4,2,2,1,103,68,7,3,2.19691366386797,3.509930185054298,False,True,False,True,Medium
+ISS-0414,Enhancement,High,API,8,5,8,1,123,307,6,1,4.296423378156057,,False,True,False,False,High
+ISS-0415,Bug,High,API,5,6,2,6,100,88,6,2,7.582627918143819,13.143095850340133,False,True,False,True,High
+ISS-0416,Bug,Medium,Backend,7,3,9,6,107,59,7,3,1.628489391438677,2.5127239954137295,False,True,True,True,High
+ISS-0417,Bug,Medium,Frontend,7,10,7,4,115,137,4,2,3.699081185922171,,True,True,False,False,High
+ISS-0418,Bug,Low,Frontend,10,1,6,1,102,229,2,1,3.914499702934304,,False,True,False,False,High
+ISS-0419,Bug,High,Backend,1,9,5,5,113,209,7,1,5.87497765160126,9.231488420748656,False,True,False,True,High
+ISS-0420,Feature Request,High,Infrastructure,4,9,4,8,105,90,4,5,1.631060543614614,1.9121608153616394,False,True,False,True,High
+ISS-0421,Enhancement,High,Mobile,7,6,5,8,87,229,4,2,9.893469858843536,5.062250642279008,True,True,True,True,High
+ISS-0422,Feature Request,Medium,API,4,8,5,6,112,294,3,1,25.051834457275977,,False,True,True,False,High
+ISS-0423,Bug,Medium,API,2,1,1,4,100,115,5,3,1.793812055947615,,True,False,False,False,High
+ISS-0424,Documentation,Medium,Database,9,9,7,3,82,219,3,1,6.082786841807821,,False,True,False,False,High
+ISS-0425,Enhancement,Low,Backend,4,10,5,2,103,7,4,2,15.825439445036542,15.304199529458947,True,True,False,True,High
+ISS-0426,Bug,Medium,Frontend,10,3,10,5,98,170,5,3,6.710276045878907,10.793399132177418,True,True,False,True,High
+ISS-0427,Bug,High,Mobile,9,4,7,8,90,60,2,1,2.324416190885616,,False,True,False,False,High
+ISS-0428,Performance,Medium,Infrastructure,6,10,9,8,91,114,6,1,2.3780897781357773,1.566178633756659,True,True,False,True,High
+ISS-0429,Bug,Medium,Backend,3,8,8,1,106,261,6,4,6.2096526254858295,11.690812710018307,False,False,False,True,High
+ISS-0430,Bug,Medium,API,3,9,8,6,87,43,6,1,7.939391616606638,,False,True,False,False,High
+ISS-0431,Bug,High,API,3,10,10,2,98,89,3,3,2.8546109785756406,,True,True,False,False,High
+ISS-0432,Bug,Medium,Database,6,1,10,8,103,136,4,3,1.611431846033809,2.7225390189283423,False,True,False,True,High
+ISS-0433,Bug,High,Frontend,10,6,4,3,112,228,3,1,9.124959761990027,5.013849807260627,False,True,False,True,High
+ISS-0434,Documentation,High,Mobile,9,7,5,2,86,43,4,2,23.409252704663416,37.18926311827583,False,True,False,True,High
+ISS-0435,Bug,Medium,Database,8,2,1,2,90,146,3,2,1.9014041343352712,,False,True,True,False,High
+ISS-0436,Enhancement,Medium,Frontend,1,9,9,4,101,44,6,3,29.45837989492653,28.22200639770439,False,True,False,True,High
+ISS-0437,Bug,High,Infrastructure,2,8,10,5,107,66,10,1,1.0975908358191715,1.7322314149969211,False,True,True,True,High
+ISS-0438,Documentation,High,Database,10,4,10,5,106,80,2,1,19.745590961530997,31.669024881872883,False,False,False,True,High
+ISS-0439,Bug,High,Mobile,5,9,1,9,108,36,4,1,2.8844084288553677,1.8269678119406978,False,True,False,True,High
+ISS-0440,Feature Request,Medium,Infrastructure,5,8,3,10,94,47,6,3,10.110928687643174,,True,True,True,False,High
+ISS-0441,Feature Request,Low,Infrastructure,3,10,9,6,105,55,1,3,6.1023072158505425,5.467308945231754,False,False,False,True,High
+ISS-0442,Feature Request,Critical,Frontend,9,10,3,2,116,160,9,1,15.513126865933799,9.882339587651352,True,False,False,True,High
+ISS-0443,Feature Request,Low,Database,10,4,10,8,96,296,6,3,1.9289291551658343,,True,False,False,False,High
+ISS-0444,Bug,Medium,API,2,3,2,5,98,18,7,1,14.53477087453517,14.355984364364323,False,True,False,True,High
+ISS-0445,Performance,Low,Mobile,8,7,7,4,97,56,5,1,3.196827723514567,2.8461902342432834,True,False,True,True,High
+ISS-0446,Enhancement,High,Frontend,7,6,9,1,120,82,5,1,7.533991745235885,,True,True,False,False,High
+ISS-0447,Security,Low,API,3,5,7,5,101,108,5,2,10.706558047102034,9.260205123825653,False,False,False,True,High
+ISS-0448,Security,High,Infrastructure,4,6,3,7,102,262,5,1,8.58042041753723,,False,True,False,False,High
+ISS-0449,Bug,High,Frontend,4,1,10,1,95,209,7,1,2.467744723369706,1.3661992294029672,False,True,True,True,High
+ISS-0450,Bug,Medium,Mobile,8,2,1,7,105,238,9,1,2.0156571151785863,2.722638028018224,True,True,False,True,High
+ISS-0451,Bug,Medium,Infrastructure,2,8,9,4,98,270,5,2,2.124413160417827,3.644865061141074,False,True,True,True,High
+ISS-0452,Enhancement,Medium,Backend,8,6,9,2,100,14,8,2,16.13081312328202,,True,True,False,False,High
+ISS-0453,Bug,Low,Mobile,4,5,5,5,106,305,4,1,13.430203411359143,7.288384547210518,False,True,True,True,High
+ISS-0454,Feature Request,Low,Mobile,6,5,4,1,107,105,3,2,10.814943387188881,,True,True,False,False,High
+ISS-0455,Performance,Medium,Infrastructure,3,2,8,1,94,106,6,2,3.332576287739236,3.680278529981787,True,True,False,True,High
+ISS-0456,Performance,Critical,API,7,1,1,6,85,100,6,4,6.235054314107541,10.881880988316142,False,True,False,True,High
+ISS-0457,Performance,Low,Mobile,1,9,8,5,106,133,7,3,14.122565940782167,14.856623247082396,False,True,True,True,High
+ISS-0458,Bug,Medium,API,2,9,1,5,91,39,5,1,25.91997961697795,20.725419232614946,False,True,False,True,High
+ISS-0459,Performance,Medium,Backend,8,2,3,9,93,83,8,1,6.419477453745147,5.147621993563911,False,True,False,True,High
+ISS-0460,Enhancement,Medium,Infrastructure,6,4,7,8,98,27,8,1,6.75706974513634,,False,True,False,False,High
+ISS-0461,Performance,Low,Database,5,5,5,7,115,148,5,2,2.5078996666298803,1.8515297530691988,False,True,False,True,High
+ISS-0462,Feature Request,Medium,Frontend,7,4,1,4,95,44,4,2,8.350869760455074,13.957787589964067,False,False,True,True,High
+ISS-0463,Documentation,High,Mobile,9,2,6,8,94,291,9,5,11.44220320598504,,False,False,False,False,High
+ISS-0464,Bug,High,Frontend,9,5,5,9,90,18,7,1,6.343728196685964,5.5651596407870505,False,True,True,True,High
+ISS-0465,Documentation,Critical,Backend,10,10,2,10,104,334,6,2,1.513115383114466,,False,True,True,False,High
+ISS-0466,Bug,Low,Frontend,9,7,1,1,96,197,9,3,1.2501348435120443,,False,True,False,False,High
+ISS-0467,Feature Request,High,Database,2,9,7,5,111,243,5,1,4.849920590465816,5.829498089889195,False,True,False,True,High
+ISS-0468,Enhancement,Critical,Backend,4,8,3,10,121,40,10,4,19.569114620494727,33.96388976689721,False,True,False,True,High
+ISS-0469,Feature Request,High,Frontend,5,6,3,7,100,356,6,2,2.722398083310113,4.06169800077778,False,True,False,True,High
+ISS-0470,Performance,Medium,Mobile,3,9,5,5,98,215,4,1,7.80829398827051,8.552954479042546,False,True,False,True,High
+ISS-0471,Feature Request,Medium,Mobile,5,2,4,9,99,168,4,2,3.748850767050806,4.518987358461187,False,True,False,True,High
+ISS-0472,Bug,Low,API,5,4,4,10,94,345,7,2,5.955875631702384,9.479158897310509,True,True,False,True,High
+ISS-0473,Enhancement,Medium,Infrastructure,9,9,7,8,108,341,5,1,3.035410106296879,,True,True,False,False,High
+ISS-0474,Bug,High,API,2,3,1,1,104,161,5,3,3.2226693184774793,6.2045119948823775,False,False,False,True,High
+ISS-0475,Bug,Low,Backend,8,2,8,1,90,136,2,3,16.53516474885358,27.69362611522215,False,True,False,True,High
+ISS-0476,Bug,Medium,Mobile,8,3,6,7,90,255,6,3,4.313071955641011,,False,True,False,False,High
+ISS-0477,Documentation,Medium,Frontend,5,9,6,10,101,286,2,1,12.055794144705537,,False,True,False,False,High
+ISS-0478,Enhancement,Medium,Backend,10,9,4,5,114,328,3,1,5.200578201760074,8.557398267648571,False,False,True,True,High
+ISS-0479,Performance,Low,Backend,3,6,3,2,110,280,6,2,6.450426644381413,12.461942200046288,False,True,True,True,High
+ISS-0480,Performance,Low,Mobile,3,5,3,5,93,264,8,3,8.082507446562541,,True,True,False,False,High
+ISS-0481,Enhancement,Medium,Mobile,5,1,6,4,111,161,5,1,9.302235359338706,,False,False,False,False,High
+ISS-0482,Enhancement,Medium,Database,3,3,6,4,84,293,4,3,1.666128470933576,,False,True,False,False,High
+ISS-0483,Bug,Critical,Backend,3,7,9,3,101,179,6,1,9.428803104702855,17.303482093522828,True,True,False,True,High
+ISS-0484,Enhancement,High,Backend,2,4,1,2,112,229,2,1,8.028530811219746,15.686811437234683,False,False,False,True,High
+ISS-0485,Bug,High,Frontend,7,2,1,2,106,121,4,1,17.631266229560076,,False,True,False,False,High
+ISS-0486,Bug,Medium,API,2,10,2,6,106,246,4,3,18.221558559202993,28.36051487849761,False,True,False,True,High
+ISS-0487,Feature Request,Medium,API,10,9,9,5,111,7,8,1,8.157073607675892,4.719055920043428,False,False,False,True,High
+ISS-0488,Bug,Medium,Mobile,6,2,9,7,98,49,2,3,1.276494057193387,,True,True,False,False,High
+ISS-0489,Bug,Critical,Backend,6,6,4,6,103,318,5,1,12.67077706980174,,False,True,False,False,High
+ISS-0490,Feature Request,Medium,Mobile,2,8,1,7,85,277,3,1,3.0336984988745024,3.143107637447129,False,True,False,True,High
+ISS-0491,Bug,Medium,Infrastructure,3,8,9,7,99,258,5,1,6.087252066756065,9.43695329855116,False,False,False,True,High
+ISS-0492,Performance,Medium,Frontend,6,3,3,3,101,288,3,4,7.019869767142122,,False,True,False,False,High
+ISS-0493,Enhancement,Critical,Infrastructure,5,6,9,1,116,64,5,1,19.41934300609734,38.4301317085555,False,True,False,True,High
+ISS-0494,Bug,Medium,Backend,9,3,6,7,111,298,5,2,9.920496385399094,9.79277905632247,False,True,False,True,High
+ISS-0495,Bug,High,Backend,1,8,7,7,96,297,4,3,19.870593593736345,,False,False,True,False,High
+ISS-0496,Enhancement,High,Frontend,10,10,4,5,105,46,6,3,19.554057360397106,,True,True,False,False,High
+ISS-0497,Bug,Medium,Backend,7,5,7,1,99,222,3,2,3.530302600049633,6.223791232077739,False,True,False,True,High
+ISS-0498,Enhancement,Low,Mobile,3,3,5,6,100,66,5,4,4.422549229192388,6.1629150198027185,False,True,True,True,High
+ISS-0499,Performance,Medium,Frontend,9,8,5,3,111,314,7,1,7.629604758067561,5.403010097629921,True,True,False,True,High
+ISS-0500,Documentation,High,Database,4,6,8,10,79,49,6,1,5.900902311953911,8.83079730413323,False,True,False,True,High
+ISS-0501,Bug,Critical,API,9,10,1,8,111,356,10,1,24.23085366553335,28.201891619986103,False,True,False,True,High
+ISS-0502,Bug,Low,Mobile,1,1,2,10,95,350,8,3,8.263434398124101,,False,True,False,False,High
+ISS-0503,Bug,High,Database,7,8,10,7,97,234,8,3,5.5402190900784,,False,True,False,False,High
+ISS-0504,Bug,Medium,Frontend,10,2,6,3,108,316,4,1,9.456543704104165,15.903987582575786,False,True,False,True,High
+ISS-0505,Feature Request,High,Backend,9,6,4,5,105,328,4,1,5.301691066448158,10.01127065926238,False,True,False,True,High
+ISS-0506,Bug,Low,API,6,2,7,8,86,323,4,4,9.05927310713144,,False,False,True,False,High
+ISS-0507,Bug,High,Database,1,8,8,3,116,322,5,2,4.624111852868869,5.570726942743603,True,True,False,True,High
+ISS-0508,Bug,High,Frontend,5,7,7,10,92,115,6,1,15.123921752538715,16.389559800564488,False,True,False,True,High
+ISS-0509,Bug,Medium,Mobile,4,10,5,7,88,29,2,5,3.9494605031960592,,False,True,False,False,High
+ISS-0510,Performance,High,Frontend,7,7,7,2,120,243,7,3,10.973428385156641,11.028413506586807,False,False,False,True,High
+ISS-0511,Bug,High,Mobile,2,3,6,10,117,23,6,2,24.21073335246899,46.721057500912,False,False,False,True,High
+ISS-0512,Enhancement,Medium,Backend,5,4,8,5,98,313,1,1,4.369184670410513,3.4176653404275448,False,True,False,True,High
+ISS-0513,Bug,Critical,Infrastructure,3,10,9,2,103,155,2,3,6.707928798300941,6.725804020255092,False,True,False,True,High
+ISS-0514,Bug,Medium,Mobile,4,4,2,10,88,182,3,3,18.750559421150598,35.75037017014215,True,False,False,True,High
+ISS-0515,Documentation,Medium,Database,6,8,7,6,88,190,5,2,5.783110737066707,5.334118282252864,True,True,True,True,High
+ISS-0516,Performance,Medium,API,10,1,1,8,111,234,3,2,3.697065602939353,3.962879364905758,False,True,False,True,High
+ISS-0517,Bug,High,Database,5,9,5,10,110,281,4,3,12.03122257908299,,False,True,True,False,High
+ISS-0518,Feature Request,High,Mobile,2,2,10,9,109,280,3,3,2.521717465141003,4.531905773425021,True,True,True,True,High
+ISS-0519,Bug,Low,Mobile,3,1,7,6,103,349,8,1,5.123404414486414,7.9059802896649956,False,True,False,True,High
+ISS-0520,Feature Request,Medium,Backend,5,5,5,10,94,180,10,5,1.3124839320216264,2.413413230218413,False,True,True,True,High
+ISS-0521,Feature Request,Medium,Frontend,7,9,1,2,96,65,4,2,9.042079647534349,5.22883199728142,True,True,True,True,High
+ISS-0522,Bug,High,Backend,5,4,5,10,98,12,10,5,2.6158893675626116,4.729644651142153,False,True,False,True,High
+ISS-0523,Bug,High,Infrastructure,8,4,6,3,90,69,5,2,3.004050466559714,,False,True,False,False,High
+ISS-0524,Documentation,Low,Mobile,10,8,7,7,114,29,7,1,1.0989345277613771,2.0111618242749554,False,True,False,True,High
+ISS-0525,Documentation,High,Mobile,10,4,2,8,102,69,10,3,5.847096361567436,7.027005944786534,True,True,False,True,High
+ISS-0526,Bug,High,API,10,9,4,4,87,320,4,2,4.287417438959775,2.574774751928061,False,True,True,True,High
+ISS-0527,Security,Medium,API,10,7,3,3,92,301,11,1,32.067684071412764,57.92506623136929,True,True,False,True,High
+ISS-0528,Enhancement,Medium,Mobile,5,4,10,10,107,281,2,3,21.68091383276386,,True,True,False,False,High
+ISS-0529,Security,High,Infrastructure,3,5,2,3,113,307,3,1,8.115561436525377,,False,True,False,False,High
+ISS-0530,Feature Request,High,Backend,2,9,4,3,99,156,4,2,5.4842986682235,,False,True,True,False,High
+ISS-0531,Enhancement,Low,Backend,6,7,8,6,114,29,5,1,2.0897545417505903,,False,True,False,False,High
+ISS-0532,Documentation,High,Frontend,1,9,7,10,118,337,5,1,10.522883204122174,20.37815429526717,False,True,True,True,High
+ISS-0533,Bug,Medium,Infrastructure,7,2,7,2,105,205,5,1,4.2016215377909,6.871718997095318,False,False,False,True,High
+ISS-0534,Bug,Medium,Backend,6,5,3,2,88,170,6,4,5.144311702565352,,False,True,False,False,High
+ISS-0535,Feature Request,Medium,Infrastructure,2,8,2,3,95,148,8,1,19.416794000792667,19.907730328900044,True,True,False,True,High
+ISS-0536,Enhancement,High,Infrastructure,1,3,5,10,91,174,9,3,2.3403867625710775,2.9885508539059495,False,True,False,True,High
+ISS-0537,Documentation,Medium,Frontend,10,2,8,1,87,317,3,2,5.814507320493993,,False,True,False,False,High
+ISS-0538,Documentation,Medium,Infrastructure,1,8,5,7,88,282,6,4,3.26443619100418,,False,True,False,False,High
+ISS-0539,Bug,High,Infrastructure,8,9,10,3,98,128,4,1,11.017507835630976,,False,True,False,False,High
+ISS-0540,Bug,Low,Frontend,4,8,5,5,95,135,10,2,6.896602314262368,,True,True,False,False,High
+ISS-0541,Feature Request,High,Frontend,6,2,1,8,110,315,5,1,6.125873085726504,,False,True,False,False,High
+ISS-0542,Bug,Critical,Infrastructure,9,9,4,8,72,231,4,2,4.116751443795894,7.966290487202376,False,True,False,True,High
+ISS-0543,Feature Request,Medium,Mobile,1,1,10,2,110,277,5,3,8.359802109082143,9.059909827405372,False,True,False,True,High
+ISS-0544,Bug,Medium,Backend,6,9,6,3,115,116,7,1,3.9429590559927,4.742619020686829,False,True,False,True,High
+ISS-0545,Enhancement,Critical,Infrastructure,10,7,6,5,100,22,1,4,5.520888576303159,,False,True,False,False,High
+ISS-0546,Documentation,High,Backend,5,7,1,4,88,352,3,3,2.301597629598632,2.2679169844721336,False,True,False,True,High
+ISS-0547,Bug,Medium,Frontend,9,2,7,1,92,353,5,3,4.291819541429452,2.4691682545763975,True,False,False,True,High
+ISS-0548,Bug,Low,Mobile,5,3,5,4,94,189,3,3,1.7679923699954245,2.346542136459242,True,False,False,True,High
+ISS-0549,Enhancement,Medium,Database,1,9,10,9,112,238,1,1,7.180993837091359,10.458684168119165,False,True,True,True,High
+ISS-0550,Feature Request,Medium,Mobile,4,3,4,2,90,33,6,2,15.281089080308236,21.246982721458664,False,False,True,True,High
+ISS-0551,Performance,Medium,API,8,8,2,6,94,278,5,2,5.94504448378013,,False,True,False,False,High
+ISS-0552,Bug,Critical,Infrastructure,2,3,5,8,105,197,5,1,16.68174847082867,22.00437910927996,False,True,False,True,High
+ISS-0553,Documentation,High,Backend,2,4,4,3,92,226,5,2,20.8753772072983,30.05924143830544,False,True,False,True,High
+ISS-0554,Bug,Medium,Backend,6,7,6,3,98,248,4,3,9.025762200941797,,False,False,False,False,High
+ISS-0555,Performance,Low,Infrastructure,5,7,9,4,125,218,5,1,1.6556145911772493,3.1767380025301057,True,True,False,True,High
+ISS-0556,Enhancement,Medium,API,7,8,9,5,95,25,9,3,11.321746377668351,15.536407585939754,False,False,True,True,High
+ISS-0557,Bug,Medium,Frontend,8,3,10,5,90,254,5,4,11.093866444030004,,False,True,True,False,High
+ISS-0558,Bug,Medium,API,1,8,3,3,100,41,6,1,11.720837049843766,,False,False,False,False,High
+ISS-0559,Performance,Medium,Infrastructure,10,9,4,8,91,245,3,1,4.109243948869937,3.771150495475372,True,True,False,True,High
+ISS-0560,Bug,Medium,Frontend,10,10,2,4,96,319,5,1,11.653979382830233,15.253261863673188,True,True,False,True,High
+ISS-0561,Enhancement,Medium,API,6,1,10,8,86,127,7,1,2.096232714348734,3.8393840558172276,False,False,False,True,High
+ISS-0562,Documentation,High,API,3,6,10,6,103,227,5,1,12.236426198812161,,False,True,False,False,High
+ISS-0563,Feature Request,High,Infrastructure,7,10,10,6,87,345,3,1,6.663901620013355,,True,True,False,False,High
+ISS-0564,Bug,Medium,Backend,9,3,2,3,93,196,6,1,12.090840639024144,12.790223216626506,True,True,True,True,High
+ISS-0565,Enhancement,Low,API,10,8,2,8,97,164,8,2,2.5733071721964227,3.092489957998141,True,False,False,True,High
+ISS-0566,Feature Request,Medium,Mobile,4,7,4,5,102,50,7,1,12.090048723352297,12.967359828210512,True,True,False,True,High
+ISS-0567,Enhancement,Medium,Infrastructure,7,8,6,6,100,44,3,1,13.571385723809385,,False,True,False,False,High
+ISS-0568,Bug,Medium,Frontend,10,6,2,4,97,150,5,2,26.6951399481484,34.2882365841639,False,False,False,True,High
+ISS-0569,Feature Request,Low,Mobile,2,1,7,1,102,357,7,2,13.076324554502387,10.043391133037613,False,True,False,True,High
+ISS-0570,Bug,Critical,API,5,1,4,1,102,3,5,1,12.124963847250454,7.8791589154591435,False,True,False,True,High
+ISS-0571,Feature Request,Medium,Frontend,3,4,10,5,115,201,12,1,8.596139605221069,10.828485524917934,True,True,False,True,High
+ISS-0572,Feature Request,High,Database,8,4,4,8,103,118,5,1,3.6871137268573784,5.568025478240965,False,True,False,True,High
+ISS-0573,Feature Request,High,Mobile,8,4,6,6,87,240,6,1,14.890924243700065,8.80282797990028,False,True,False,True,High
+ISS-0574,Bug,Medium,Infrastructure,5,6,6,1,105,112,3,4,4.372275612571528,,True,True,True,False,High
+ISS-0575,Performance,Medium,Infrastructure,3,1,4,1,121,259,7,3,14.69697631368099,29.277093128184966,True,False,False,True,High
+ISS-0576,Bug,High,Infrastructure,3,7,6,4,106,85,5,2,3.846691281955565,3.425822943987265,False,True,False,True,High
+ISS-0577,Feature Request,Medium,Frontend,8,8,5,1,90,169,5,1,10.766782718065308,9.357854496327112,False,True,True,True,High
+ISS-0578,Enhancement,Low,Mobile,2,6,8,5,98,343,5,1,4.524995244543232,8.074629078843163,True,False,False,True,High
+ISS-0579,Bug,Medium,Infrastructure,1,7,4,3,90,23,3,3,4.759928489914053,8.34602408289327,False,False,True,True,High
+ISS-0580,Bug,High,Infrastructure,8,1,10,4,96,167,7,3,5.010255477786344,,False,True,True,False,High
+ISS-0581,Bug,Medium,API,6,7,3,8,124,198,8,1,5.552676565267695,3.6273330782417923,False,True,False,True,High
+ISS-0582,Enhancement,High,Database,10,1,5,10,117,105,7,2,3.8226085882544596,2.4457848246207456,True,True,False,True,High
+ISS-0583,Documentation,High,Database,6,9,6,6,84,14,3,2,7.486777757931775,,False,True,False,False,High
+ISS-0584,Bug,Low,Backend,9,9,9,10,95,270,7,3,1.9271522111905715,1.0983878236384117,False,True,False,True,High
+ISS-0585,Performance,High,Mobile,4,2,1,9,102,16,4,1,6.668492366826072,13.247813701756357,False,False,False,True,High
+ISS-0586,Bug,Low,API,9,8,3,3,106,30,6,4,2.1846504017059107,3.8783849537737667,False,True,False,True,High
+ISS-0587,Bug,High,Frontend,10,4,5,4,103,303,3,4,14.889562262524842,8.83900662004792,False,True,False,True,High
+ISS-0588,Bug,Medium,Frontend,8,6,6,1,112,301,3,1,10.086685752074592,,True,True,False,False,High
+ISS-0589,Bug,Medium,Backend,9,10,9,9,119,297,3,4,2.6139416609621486,3.306214999958409,False,True,False,True,High
+ISS-0590,Bug,High,Mobile,2,9,6,8,95,359,6,3,9.268022962771408,14.707861286276689,False,False,False,True,High
+ISS-0591,Bug,High,API,2,2,4,4,116,229,0,2,8.103301083190072,13.603824168376999,False,True,False,True,High
+ISS-0592,Bug,Low,Database,5,1,2,2,106,250,5,1,4.20809258306438,7.715484972454918,True,True,False,True,High
+ISS-0593,Bug,Critical,API,4,4,7,1,94,302,8,3,6.724004003274075,,False,True,False,False,High
+ISS-0594,Bug,Medium,Backend,5,10,2,10,94,231,8,1,12.018544421765197,,True,False,False,False,High
+ISS-0595,Feature Request,Low,Mobile,7,7,2,7,107,231,7,2,15.834550317842771,18.42676739541349,False,True,False,True,High
+ISS-0596,Feature Request,Critical,Frontend,4,2,6,2,114,303,5,1,6.505595693117736,,False,True,False,False,High
+ISS-0597,Bug,Medium,Infrastructure,2,8,5,3,92,359,5,1,2.7725250138396724,,True,True,False,False,High
+ISS-0598,Bug,Low,Frontend,10,4,3,10,88,99,2,1,38.820189837543595,27.04735918783189,False,True,False,True,High
+ISS-0599,Bug,High,Backend,10,9,6,2,106,179,5,3,2.9512926064497815,,True,True,True,False,High
+ISS-0600,Feature Request,Critical,Mobile,6,5,10,7,99,183,7,2,1.8398698029910616,,False,False,False,False,High
+ISS-0601,Documentation,Low,Backend,1,4,2,9,90,22,4,1,10.20133670116954,10.599217386881758,False,True,True,True,High
+ISS-0602,Performance,High,Frontend,5,3,2,3,99,44,8,1,16.368917273331206,29.636968456090642,False,True,True,True,High
+ISS-0603,Performance,Medium,Frontend,3,6,5,8,102,15,8,3,9.235754024387273,14.06323847764491,True,True,False,True,High
+ISS-0604,Feature Request,Low,Mobile,10,7,7,1,90,233,6,1,1.754358459631428,3.4357175420334314,False,False,False,True,High
+ISS-0605,Bug,Low,Backend,3,7,2,5,94,87,4,3,2.4768571201682477,1.5566955135372027,True,True,True,True,High
+ISS-0606,Performance,Medium,Frontend,6,7,8,2,103,72,2,3,3.9806382900682897,3.3522280479962885,True,False,False,True,High
+ISS-0607,Bug,High,Mobile,6,4,4,5,111,120,8,3,3.542354488744922,5.261223413055069,True,True,False,True,High
+ISS-0608,Enhancement,Medium,Database,2,2,2,3,109,41,5,2,1.4596620106374614,,False,True,False,False,High
+ISS-0609,Documentation,High,Mobile,1,4,2,10,93,362,6,1,3.639462099574683,3.03456411393428,True,True,False,True,High
+ISS-0610,Bug,High,API,9,2,7,2,94,113,4,3,2.08842851324518,1.8946035399388086,True,False,True,True,High
+ISS-0611,Bug,High,Infrastructure,10,4,10,3,105,8,4,1,2.6593338755020524,,False,True,False,False,High
+ISS-0612,Enhancement,Medium,Database,9,3,8,9,112,111,3,5,1.8096252068985408,3.264905303931316,False,True,False,True,High
+ISS-0613,Bug,High,Backend,8,7,8,5,77,103,4,2,4.3968468866911925,8.470742674828188,False,True,True,True,High
+ISS-0614,Bug,Low,API,1,6,9,10,93,24,6,1,14.44007967943481,25.374450936646973,False,False,True,True,High
+ISS-0615,Performance,High,Infrastructure,6,7,4,1,100,125,4,3,8.8696493080219,17.270349606877282,True,True,True,True,High
+ISS-0616,Enhancement,High,Backend,6,9,7,2,91,88,8,4,4.378139512893169,7.775845851785529,True,True,False,True,High
+ISS-0617,Bug,Low,Database,5,9,5,9,97,32,8,3,4.3012056635992,,False,True,False,False,High
+ISS-0618,Bug,Medium,Backend,3,8,5,8,97,46,3,1,3.491116882169817,3.6031108953048685,False,True,False,True,High
+ISS-0619,Performance,Medium,Database,2,7,8,10,83,86,8,4,1.1559454418566837,,False,True,False,False,High
+ISS-0620,Bug,Medium,Mobile,10,7,1,3,104,338,6,1,1.2106063726282643,1.7436126692060798,True,True,True,True,High
+ISS-0621,Bug,Low,Infrastructure,8,9,5,8,106,254,2,2,2.269158146170051,,False,True,False,False,High
+ISS-0622,Performance,High,Database,9,7,1,6,102,129,1,3,4.206356298510565,4.520126158075762,False,True,True,True,High
+ISS-0623,Security,Medium,API,6,4,1,1,102,45,10,2,3.294550877355432,,False,True,True,False,High
+ISS-0624,Feature Request,High,Database,6,10,6,2,89,290,6,1,1.2337941591211616,1.4192515015104732,False,True,False,True,High
+ISS-0625,Bug,Medium,API,3,6,4,2,103,74,6,1,1.8784793773816295,,False,False,False,False,High
+ISS-0626,Enhancement,Medium,API,8,5,2,3,82,320,5,2,14.55986733776678,,False,True,True,False,High
+ISS-0627,Bug,Critical,Database,8,6,9,10,103,364,2,2,5.9436574189284705,,False,True,False,False,High
+ISS-0628,Feature Request,High,Frontend,6,7,10,2,100,124,3,3,18.983116249014838,13.39249820963775,False,False,False,True,High
+ISS-0629,Feature Request,Low,Database,7,9,3,3,107,229,6,1,15.543365120176153,,True,False,False,False,High
+ISS-0630,Bug,Critical,API,10,3,7,10,113,203,5,2,15.097122335723869,26.32832480095818,True,False,True,True,High
+ISS-0631,Performance,High,Frontend,6,7,1,1,107,63,4,1,7.757947627737299,,False,False,False,False,High
+ISS-0632,Documentation,Critical,Backend,1,3,10,1,107,56,3,1,2.6387298308205698,2.2641653164103888,False,True,False,True,High
+ISS-0633,Documentation,Medium,API,3,4,4,10,97,221,4,1,2.135123762362807,1.8378463464931132,False,True,False,True,High
+ISS-0634,Bug,Medium,Infrastructure,4,7,3,8,89,238,5,3,3.4021842803010123,3.9654712850879363,True,False,False,True,High
+ISS-0635,Feature Request,Low,Frontend,3,3,5,7,111,65,6,1,8.268153813929397,,True,True,False,False,High
+ISS-0636,Documentation,Medium,API,7,4,9,3,87,51,2,2,1.5212178297337102,,True,True,False,False,High
+ISS-0637,Documentation,Medium,API,9,4,7,5,104,360,4,1,6.431996212148506,4.983807039422442,False,True,True,True,High
+ISS-0638,Feature Request,High,API,7,3,9,2,90,234,4,3,4.4302534559417,8.15645953455729,False,False,False,True,High
+ISS-0639,Bug,Medium,API,5,4,2,5,87,318,5,1,19.911872945364518,16.373667742640205,False,True,False,True,High
+ISS-0640,Bug,Medium,Backend,2,5,5,1,103,179,6,1,3.1484463086755157,4.486834787061335,False,False,False,True,High
+ISS-0641,Documentation,Medium,Backend,8,5,1,3,94,192,7,1,2.491666879936311,3.0075720726952544,False,True,False,True,High
+ISS-0642,Performance,High,Mobile,6,4,3,6,107,340,4,2,3.1898628488475738,,False,True,True,False,High
+ISS-0643,Bug,Medium,Database,5,4,6,8,106,0,7,2,16.10410852752212,,False,True,False,False,High
+ISS-0644,Enhancement,High,Frontend,6,1,4,6,96,126,5,2,5.343221651626018,,False,True,False,False,High
+ISS-0645,Bug,Medium,Mobile,8,10,7,3,106,320,4,1,12.685990155810943,,False,True,False,False,High
+ISS-0646,Bug,Low,Backend,4,4,10,8,116,162,6,2,2.021218571759859,,True,True,False,False,High
+ISS-0647,Bug,High,Backend,1,8,5,10,94,213,8,2,6.166961158790702,,False,True,False,False,High
+ISS-0648,Documentation,Medium,API,4,7,6,10,102,335,6,3,1.422990442659512,2.3757782938744945,False,True,False,True,High
+ISS-0649,Bug,Medium,Infrastructure,7,7,6,4,125,178,6,1,21.393377861090073,29.08065822644106,False,True,False,True,High
+ISS-0650,Bug,High,Database,10,3,6,8,95,301,6,1,8.527359512190927,13.199135054107808,True,True,False,True,High
+ISS-0651,Bug,Low,Frontend,2,9,7,7,115,337,6,2,1.8926627889607015,,True,True,False,False,High
+ISS-0652,Feature Request,Medium,Infrastructure,10,9,5,7,94,125,2,1,5.910679012410351,,True,False,False,False,High
+ISS-0653,Feature Request,Medium,Infrastructure,9,9,2,1,100,164,6,4,5.864605354508203,8.470549152349943,True,False,False,True,High
+ISS-0654,Bug,Medium,Frontend,5,6,3,1,110,332,2,1,10.010781145963156,6.916220644907282,False,True,False,True,High
+ISS-0655,Bug,Medium,API,4,9,5,6,112,153,9,2,12.423787933982954,12.521674436226895,False,True,False,True,High
+ISS-0656,Documentation,Medium,Mobile,5,3,9,3,107,21,5,1,4.062702901355056,3.796908190504456,False,True,False,True,High
+ISS-0657,Documentation,Critical,Frontend,5,10,9,7,110,19,1,3,8.257850307082515,7.616371418937499,False,True,True,True,High
+ISS-0658,Performance,High,API,9,8,1,3,91,17,4,1,9.439239677844698,8.853015288079863,True,True,True,True,High
+ISS-0659,Performance,High,Backend,7,2,4,1,110,316,5,2,1.1478963553199633,0.9685695292142873,False,True,False,True,High
+ISS-0660,Bug,Low,Database,2,6,4,5,107,3,3,1,51.872338047641016,60.260893894859294,False,True,True,True,High
+ISS-0661,Documentation,High,Mobile,6,8,5,3,111,139,6,2,8.387424069695948,,True,True,True,False,High
+ISS-0662,Feature Request,Medium,Mobile,6,9,7,6,97,75,6,1,7.33255501109434,,True,True,False,False,High
+ISS-0663,Bug,Low,Mobile,4,4,7,3,93,32,4,3,15.18659702642231,28.209709863557123,False,True,False,True,High
+ISS-0664,Bug,Medium,Frontend,10,4,10,5,105,354,5,3,29.980854481249498,46.178637275757055,True,True,True,True,High
+ISS-0665,Feature Request,Medium,Database,7,6,7,4,110,162,5,1,2.3153247614801673,1.9902908107768835,False,True,False,True,High
+ISS-0666,Bug,Low,API,7,5,7,10,102,87,7,2,2.075922845815106,2.812575578583046,False,True,False,True,High
+ISS-0667,Feature Request,High,Database,5,7,6,7,98,22,5,3,11.907977882339575,,True,False,False,False,High
+ISS-0668,Performance,Critical,Infrastructure,5,10,6,4,99,222,5,5,20.365164648801912,33.726605049792944,True,True,False,True,High
+ISS-0669,Documentation,Medium,API,1,9,8,8,92,145,4,3,6.387423436968012,7.0931196038413,False,True,False,True,High
+ISS-0670,Enhancement,High,Mobile,2,3,3,3,91,165,7,3,7.615284661775125,5.706307589214713,False,True,False,True,High
+ISS-0671,Bug,High,Backend,7,1,3,5,83,277,6,1,1.1379304065436155,0.9582698473435906,False,False,True,True,High
+ISS-0672,Feature Request,High,Database,4,1,10,5,111,30,6,4,2.7510902400482546,,False,True,False,False,High
+ISS-0673,Feature Request,High,API,8,10,3,10,98,288,4,3,3.5345089267391927,4.508344198619391,False,True,False,True,High
+ISS-0674,Documentation,High,Frontend,10,3,4,5,112,335,4,1,1.0044347056183087,1.0478495628966549,False,True,False,True,High
+ISS-0675,Enhancement,High,Backend,5,10,2,1,102,128,8,2,1.5391417555686782,,False,True,False,False,High
+ISS-0676,Security,Low,API,5,4,2,10,113,156,4,3,1.2403226385926267,1.378372495860383,False,True,False,True,High
+ISS-0677,Performance,Low,API,7,6,9,9,94,24,5,1,6.073720111640213,9.468079357465529,True,True,False,True,High
+ISS-0678,Documentation,High,Backend,3,3,2,1,84,105,8,1,1.6879883678882086,,False,True,True,False,High
+ISS-0679,Feature Request,High,Backend,8,5,9,1,112,322,9,1,8.994980655568607,8.805883582509273,False,True,False,True,High
+ISS-0680,Bug,Medium,Database,6,7,3,1,101,230,5,3,7.510146040581007,,False,True,True,False,High
+ISS-0681,Feature Request,Medium,Backend,2,6,3,1,92,115,3,4,5.9382856056180895,10.810331698816519,False,True,False,True,High
+ISS-0682,Feature Request,Low,Frontend,4,6,4,9,96,66,6,2,17.10414615390859,25.986862536006807,True,False,False,True,High
+ISS-0683,Bug,Low,Backend,7,2,1,1,117,116,4,3,7.326110309613965,,False,True,False,False,High
+ISS-0684,Enhancement,Medium,Backend,9,8,2,8,107,51,4,1,16.517105208495163,,False,False,False,False,High
+ISS-0685,Documentation,Medium,Frontend,7,9,6,8,86,238,3,1,5.98630847180603,3.0514266511884363,False,False,False,True,High
+ISS-0686,Bug,Medium,Database,6,6,7,9,100,291,10,3,3.2210312160825163,3.5157916145385846,False,True,False,True,High
+ISS-0687,Feature Request,High,Mobile,7,7,5,6,101,53,6,3,5.6920890507721795,11.039999269780562,False,True,False,True,High
+ISS-0688,Bug,Low,Frontend,5,10,9,6,100,9,4,1,3.752088126951653,6.62040417508732,True,True,False,True,High
+ISS-0689,Feature Request,Low,Backend,8,8,8,2,107,56,7,2,15.791128939803096,,False,True,False,False,High
+ISS-0690,Performance,Low,Mobile,4,9,6,5,101,350,2,3,12.171360768477753,13.921799249521271,True,True,False,True,High
+ISS-0691,Documentation,Low,Database,5,9,3,1,93,110,2,4,14.16825785432478,17.325829905637036,False,True,False,True,High
+ISS-0692,Performance,Medium,Backend,1,10,7,10,104,53,7,1,8.141505574145718,16.109644984876073,False,True,False,True,High
+ISS-0693,Enhancement,Medium,Frontend,3,2,8,6,95,303,5,2,1.2314643743676705,1.4146139920240002,True,True,False,True,High
+ISS-0694,Bug,Low,Mobile,4,8,8,8,107,106,4,3,13.270737415404467,,False,True,False,False,High
+ISS-0695,Documentation,High,Mobile,10,4,8,5,112,78,3,1,20.21722011240482,,True,True,True,False,High
+ISS-0696,Bug,High,Frontend,4,6,6,7,99,132,3,1,19.239173575945763,,False,True,True,False,High
+ISS-0697,Security,Critical,Backend,10,7,9,9,93,153,6,2,17.343879085601984,15.039549216618486,False,False,True,True,High
+ISS-0698,Enhancement,Critical,API,9,6,8,5,79,323,7,2,16.825367029437853,28.951463997355756,False,True,True,True,High
+ISS-0699,Bug,Low,API,1,5,8,7,111,218,4,2,8.415597985045498,7.9745060537888035,True,True,False,True,High
+ISS-0700,Feature Request,Medium,Backend,7,9,8,4,88,200,2,1,34.783636074588706,30.776523855657206,True,True,False,True,High
+ISS-0701,Performance,High,Infrastructure,6,6,10,8,99,135,2,2,4.016076151131857,6.526630222683613,False,True,False,True,High
+ISS-0702,Performance,Critical,Infrastructure,8,5,5,5,98,187,1,1,3.119850204997259,2.595418978357676,True,False,True,True,High
+ISS-0703,Bug,High,API,7,4,5,4,96,155,8,1,17.917012912655636,32.11108946133528,False,True,False,True,High
+ISS-0704,Performance,Critical,Frontend,1,2,9,5,90,27,4,2,3.1694639181944595,3.921377882024175,False,True,False,True,High
+ISS-0705,Bug,High,Backend,10,6,8,2,118,297,4,1,8.32921176066164,11.463726797235141,True,True,False,True,High
+ISS-0706,Bug,High,Infrastructure,6,6,1,6,97,176,6,1,6.742707764067069,,True,True,False,False,High
+ISS-0707,Performance,Medium,API,1,3,7,4,100,319,2,3,4.138473590116814,,False,True,False,False,High
+ISS-0708,Feature Request,High,Frontend,1,6,7,2,107,311,1,2,9.456530796807826,8.355776334214001,False,True,False,True,High
+ISS-0709,Performance,Medium,Backend,4,7,2,6,95,306,4,4,2.3162298459336426,3.8140182395183064,False,True,False,True,High
+ISS-0710,Documentation,Medium,Mobile,9,10,2,1,97,25,3,1,1.78001813292421,1.6049132961336685,False,False,False,True,High
+ISS-0711,Bug,High,Infrastructure,9,5,10,4,103,132,13,1,6.108331541066373,,True,True,True,False,High
+ISS-0712,Documentation,High,Infrastructure,10,3,8,3,98,291,6,4,14.292325339053791,26.571739583649503,False,True,False,True,High
+ISS-0713,Enhancement,High,Backend,7,3,1,8,87,158,4,3,27.723871138494506,18.187287706184385,False,True,False,True,High
+ISS-0714,Security,Medium,Backend,5,2,4,3,80,361,5,3,6.173663951977006,,False,True,False,False,High
+ISS-0715,Performance,Low,Frontend,6,7,4,10,93,179,4,1,4.852001300260552,,True,True,False,False,High
+ISS-0716,Enhancement,Low,Frontend,5,1,1,7,94,115,5,4,1.8562629354288507,2.119985343875775,False,True,False,True,High
+ISS-0717,Security,Low,Mobile,8,6,1,1,90,204,5,1,11.169151553946008,17.55504949971265,True,False,False,True,High
+ISS-0718,Enhancement,Medium,Frontend,1,5,5,8,90,44,2,1,3.152461940821101,6.2871539200113995,True,True,False,True,High
+ISS-0719,Feature Request,Medium,API,1,7,10,6,97,178,7,1,7.074888823813332,10.276223700130528,False,False,False,True,High
+ISS-0720,Bug,Medium,Frontend,10,2,4,9,88,110,6,2,5.295742810552845,5.712957661057363,False,True,False,True,High
+ISS-0721,Bug,High,Mobile,9,7,7,3,93,340,2,4,13.74393695397463,12.800520456759648,False,True,False,True,High
+ISS-0722,Performance,Medium,Frontend,2,9,10,1,119,67,4,3,12.145489771512498,,False,True,True,False,High
+ISS-0723,Feature Request,High,Backend,1,6,3,1,99,157,4,1,16.59028936434014,8.714049153343883,False,True,False,True,High
+ISS-0724,Bug,Medium,Database,10,1,10,5,91,40,5,3,2.8407257235461802,4.284971309188524,True,True,False,True,High
+ISS-0725,Enhancement,High,Mobile,6,8,4,5,117,319,7,2,19.44287366859135,28.73699352846655,False,True,False,True,High
+ISS-0726,Security,Medium,Frontend,6,9,1,4,107,328,4,3,15.482451598053977,21.46537560659926,False,True,False,True,High
+ISS-0727,Bug,High,API,10,10,10,9,96,187,5,2,11.141928866180963,20.954197264112018,True,True,True,True,High
+ISS-0728,Documentation,Medium,API,7,8,5,8,90,45,5,1,4.184235988773393,5.498039741323337,False,True,False,True,High
+ISS-0729,Bug,Medium,Backend,4,4,7,5,104,94,7,3,5.939851197306688,11.038099678950406,False,True,True,True,High
+ISS-0730,Feature Request,Medium,API,2,3,7,6,94,103,5,2,8.995921529911154,13.6764876743189,False,True,False,True,High
+ISS-0731,Bug,High,Frontend,3,10,7,7,100,341,5,3,6.996518103969148,8.994908839957608,True,True,False,True,High
+ISS-0732,Enhancement,Critical,Frontend,6,2,3,10,101,45,7,1,2.345562341298815,3.7214131576135854,False,True,False,True,High
+ISS-0733,Bug,High,Frontend,1,2,4,9,113,106,9,1,2.8344296948860923,3.181840756630448,False,True,True,True,High
+ISS-0734,Feature Request,Low,Frontend,1,9,4,3,103,44,6,1,8.285334390407261,12.19709485210151,True,True,False,True,High
+ISS-0735,Bug,Critical,Mobile,4,4,6,1,89,309,9,1,1.2476603050991284,1.3640460563329213,False,True,False,True,High
+ISS-0736,Bug,High,Database,3,10,2,10,104,33,9,2,4.343736209047408,4.746108585033017,False,True,False,True,High
+ISS-0737,Bug,High,Database,4,1,2,2,95,162,7,1,7.879088643503816,,False,False,False,False,High
+ISS-0738,Feature Request,Medium,Database,2,4,3,9,119,325,7,3,6.179384078559159,,False,True,False,False,High
+ISS-0739,Bug,Medium,Frontend,5,4,10,2,91,245,5,3,8.57401884596371,10.374830904604538,False,True,False,True,High
+ISS-0740,Feature Request,Medium,Infrastructure,8,8,5,1,97,76,9,4,5.312160082560574,5.751238840636815,True,True,False,True,High
+ISS-0741,Feature Request,High,Frontend,6,3,1,4,107,156,2,1,6.652732048526869,3.9916280985215065,False,True,False,True,High
+ISS-0742,Bug,High,Backend,6,4,10,6,109,104,1,1,6.90303067553186,,False,True,True,False,High
+ISS-0743,Feature Request,Critical,API,10,4,4,10,104,61,5,1,11.801631152324436,21.888201165781826,False,True,False,True,High
+ISS-0744,Bug,Low,Frontend,1,3,1,1,100,344,5,2,3.992800389408393,4.580175487112777,False,False,False,True,High
+ISS-0745,Bug,Medium,API,2,3,3,4,111,142,6,2,29.809871803680796,26.260994566035215,False,True,True,True,High
+ISS-0746,Documentation,Medium,Database,8,2,1,7,120,199,6,3,7.770542946750955,14.409456579679805,False,True,True,True,High
+ISS-0747,Performance,Medium,Database,6,3,10,7,108,137,5,1,3.6744201611690914,,False,True,True,False,High
+ISS-0748,Feature Request,Medium,Mobile,7,6,4,2,123,246,5,2,29.667906349902914,,True,True,False,False,High
+ISS-0749,Performance,Medium,Database,10,7,2,8,92,350,7,4,1.838435711213796,3.1007582172395916,False,False,False,True,High
+ISS-0750,Bug,High,Mobile,2,1,7,1,100,276,5,2,7.174550134065971,7.327373748446391,True,True,False,True,High
+ISS-0751,Documentation,High,Database,9,3,9,1,105,165,4,2,1.1762386755136687,,False,False,False,False,High
+ISS-0752,Bug,Medium,API,9,1,6,6,86,220,5,2,7.76607655624485,,True,True,True,False,High
+ISS-0753,Bug,Critical,Frontend,2,1,9,10,108,119,2,4,1.084984783237841,2.10778488036902,True,True,True,True,High
+ISS-0754,Bug,Low,Database,4,5,3,4,95,29,6,2,26.84753695767772,40.931079550768914,False,False,False,True,High
+ISS-0755,Enhancement,High,Backend,2,1,9,8,88,307,3,1,4.484275430611449,5.564900151410697,False,True,False,True,High
+ISS-0756,Bug,High,Database,3,8,8,6,110,134,6,5,25.31310718766513,39.19364716796947,False,True,False,True,High
+ISS-0757,Feature Request,Medium,API,5,3,1,5,97,21,5,1,11.443114395330603,6.917046877970532,True,False,False,True,High
+ISS-0758,Bug,High,Infrastructure,3,3,5,7,102,182,7,1,10.121638907535745,5.079900697503089,False,True,False,True,High
+ISS-0759,Bug,Medium,Mobile,1,4,7,5,89,77,6,1,6.936272993618296,8.33846185056911,False,True,True,True,High
+ISS-0760,Enhancement,Critical,Database,7,3,2,10,114,363,4,2,1.643784522605154,,False,True,False,False,High
+ISS-0761,Performance,Medium,Frontend,3,3,7,6,98,113,3,2,11.780996759555688,18.23603463579653,False,True,False,True,High
+ISS-0762,Bug,High,Infrastructure,2,5,3,9,109,67,6,2,6.424849948062118,,False,True,False,False,High
+ISS-0763,Feature Request,Medium,Mobile,9,10,9,9,99,29,7,3,3.2323718319918657,,False,False,False,False,High
+ISS-0764,Enhancement,Medium,Backend,1,10,10,3,109,37,8,3,5.10597518966719,2.5801691914483746,True,True,False,True,High
+ISS-0765,Feature Request,High,Database,2,8,10,4,96,55,2,1,2.7837515052217903,4.449971119227712,False,True,False,True,High
+ISS-0766,Enhancement,Medium,Frontend,3,1,6,10,110,292,7,3,6.326819763357147,4.489925387517886,True,True,True,True,High
+ISS-0767,Enhancement,High,Backend,1,10,4,7,112,256,6,2,4.448748949465193,,False,True,False,False,High
+ISS-0768,Documentation,Low,Mobile,4,3,5,6,89,359,4,3,12.92341142532629,12.120407769694213,True,True,False,True,High
+ISS-0769,Bug,High,Database,7,9,6,3,102,188,3,3,11.496471133951822,14.449535234678487,False,True,False,True,High
+ISS-0770,Feature Request,High,Backend,4,6,8,3,101,119,3,1,6.749097945954543,7.6586013860279305,True,True,True,True,High
+ISS-0771,Bug,Medium,Mobile,9,5,10,3,92,211,6,1,3.9983590813174916,,True,True,False,False,High
+ISS-0772,Feature Request,High,Infrastructure,3,1,4,6,89,258,4,1,2.200128668115254,1.1315623416486722,False,True,False,True,High
+ISS-0773,Feature Request,Low,Frontend,2,10,10,9,104,183,3,4,8.958050318844844,8.232005570393058,False,True,True,True,High
+ISS-0774,Bug,High,Infrastructure,10,2,4,2,107,336,10,4,3.7999352698900903,5.330208488509189,False,True,False,True,High
+ISS-0775,Enhancement,Critical,Frontend,1,5,5,7,106,65,5,4,9.194398456039549,12.230709671659715,False,True,False,True,High
+ISS-0776,Performance,Medium,Backend,4,3,8,4,79,201,2,1,11.505414710438941,12.119193094268237,False,True,False,True,High
+ISS-0777,Enhancement,Medium,Database,9,6,1,9,113,260,6,2,2.0605765289829616,1.0881810647925263,True,True,False,True,High
+ISS-0778,Feature Request,Critical,Database,1,9,10,1,104,101,3,2,24.82268132068122,,False,True,False,False,High
+ISS-0779,Enhancement,Low,Mobile,6,9,5,5,100,137,5,4,16.4301991317767,25.954471648193856,False,True,False,True,High
+ISS-0780,Feature Request,Low,Frontend,10,9,6,6,98,265,7,2,7.742311977219054,12.130971238390554,True,True,False,True,High
+ISS-0781,Enhancement,Critical,Infrastructure,3,10,1,5,97,238,6,4,4.568197497655849,6.399565286415917,False,True,False,True,High
+ISS-0782,Documentation,High,Backend,6,7,5,8,89,0,5,2,3.7960333374783413,,True,True,True,False,High
+ISS-0783,Documentation,Medium,Mobile,7,5,6,8,105,52,6,1,3.8947065480888745,2.0822442310243408,False,True,True,True,High
+ISS-0784,Security,High,API,5,5,6,7,87,264,2,3,11.77822001689486,,False,True,False,False,High
+ISS-0785,Security,High,Infrastructure,5,5,9,3,104,310,6,5,7.636780548616475,,False,True,False,False,High
+ISS-0786,Feature Request,Low,Infrastructure,5,4,6,8,117,108,8,1,10.820578455861202,9.747939519202458,True,True,False,True,High
+ISS-0787,Enhancement,High,Frontend,1,4,9,9,111,111,6,1,11.878100001386265,6.448801220781738,False,True,False,True,High
+ISS-0788,Bug,High,API,2,2,2,6,93,259,7,2,2.384619803829992,1.5146417773309773,False,False,False,True,High
+ISS-0789,Bug,Medium,Backend,5,3,10,5,106,129,6,2,3.7537860627902004,,False,True,False,False,High
+ISS-0790,Bug,Medium,Backend,7,9,8,8,102,302,5,1,19.681417363998037,23.853331423533763,False,True,False,True,High
+ISS-0791,Feature Request,High,Mobile,4,7,5,6,94,177,5,2,4.666997949242312,,True,True,False,False,High
+ISS-0792,Documentation,Medium,Backend,2,3,8,3,110,83,8,2,5.470816463167072,8.980044201591639,True,True,False,True,High
+ISS-0793,Documentation,High,API,5,2,3,7,92,163,4,1,1.2921700349259235,2.0016949946347005,False,True,False,True,High
+ISS-0794,Documentation,High,Backend,8,3,7,9,101,152,4,3,1.1479693839637708,1.8272670695938327,False,True,False,True,High
+ISS-0795,Documentation,Medium,Mobile,3,9,7,1,94,296,8,3,4.201765028807014,5.100791283904103,False,False,False,True,High
+ISS-0796,Performance,Medium,Backend,6,6,4,8,107,59,4,1,13.652377752710608,26.415730826821306,False,True,False,True,High
+ISS-0797,Performance,Low,Mobile,5,10,8,7,112,92,4,1,21.27746125365767,,False,True,False,False,High
+ISS-0798,Security,Medium,API,4,3,9,3,88,298,3,2,10.158802312827596,,False,True,False,False,High
+ISS-0799,Bug,High,Mobile,8,8,4,9,102,356,4,2,19.26758362792386,,False,True,True,False,High
+ISS-0800,Bug,Low,Backend,3,2,2,6,97,30,10,2,5.524133237932604,6.9434875944625905,False,False,False,True,High
+ISS-0801,Bug,Low,Backend,8,6,4,5,95,28,4,2,20.073349059038982,15.936939036252035,True,True,False,True,High
+ISS-0802,Enhancement,Medium,Mobile,7,5,2,4,99,236,5,3,20.747037775141877,22.114860650898756,False,False,True,True,High
+ISS-0803,Bug,High,Database,5,1,3,7,88,185,7,3,8.795141224221382,,True,True,False,False,High
+ISS-0804,Enhancement,Medium,Mobile,9,2,4,10,111,76,1,1,4.390754245129709,6.014645712040868,True,True,False,True,High
+ISS-0805,Enhancement,High,Frontend,7,5,6,4,108,259,2,3,4.490774645866636,,True,True,False,False,High
+ISS-0806,Documentation,Medium,API,9,4,7,1,112,190,2,3,3.9194868942294874,3.7329402851466598,False,True,False,True,High
+ISS-0807,Enhancement,Medium,Backend,8,2,5,6,105,234,3,3,25.069532661811255,31.75165609674245,True,True,False,True,High
+ISS-0808,Documentation,Medium,Database,4,1,5,5,88,285,2,2,7.415352320689722,,False,True,True,False,High
+ISS-0809,Feature Request,Low,Mobile,6,4,7,2,97,308,6,3,4.311112525368593,3.5940419527589924,False,False,False,True,High
+ISS-0810,Bug,High,Frontend,5,3,1,6,99,62,3,3,10.693611592092262,,False,True,True,False,High
+ISS-0811,Bug,Medium,Infrastructure,3,1,8,10,81,281,2,2,2.3544238844384067,1.2201861067215354,False,True,False,True,High
+ISS-0812,Bug,Low,Frontend,10,9,7,8,103,302,7,1,27.050728619103925,28.877475275399103,False,True,False,True,High
+ISS-0813,Enhancement,High,Mobile,5,6,3,1,95,353,2,5,8.121928336028965,4.6779707359105895,False,True,False,True,High
+ISS-0814,Feature Request,Low,API,9,4,1,1,90,248,4,1,8.300449990988126,8.818577159756094,False,True,True,True,High
+ISS-0815,Documentation,Medium,Frontend,1,2,6,8,93,74,4,1,8.326918664781985,,True,False,False,False,High
+ISS-0816,Performance,High,Backend,4,4,8,3,97,337,8,4,4.624598002523743,5.5630400697942095,False,False,False,True,High
+ISS-0817,Documentation,Critical,Mobile,2,5,8,8,100,287,4,1,9.77854271077804,,True,False,False,False,High
+ISS-0818,Performance,High,Frontend,4,9,4,5,100,42,6,3,5.9310196199508125,10.482099163444357,False,False,False,True,High
+ISS-0819,Bug,Critical,Backend,6,1,3,5,107,331,7,1,23.29842867081579,13.29662205238207,True,True,False,True,High
+ISS-0820,Bug,High,Frontend,1,3,4,2,126,140,11,2,1.2517680897964045,1.5685736573440912,False,True,False,True,High
+ISS-0821,Documentation,High,API,5,4,6,2,94,91,4,2,4.1470113791297365,3.4162534456874583,True,True,False,True,High
+ISS-0822,Feature Request,Medium,Frontend,5,8,1,7,102,97,5,4,7.267256056391746,11.192205461303828,False,True,True,True,High
+ISS-0823,Documentation,Medium,Infrastructure,10,7,9,6,108,108,5,1,4.87269800576442,,True,True,False,False,High
+ISS-0824,Documentation,Low,Infrastructure,3,3,5,3,112,166,4,2,8.557660579496456,,False,True,False,False,High
+ISS-0825,Feature Request,Low,Frontend,6,3,7,6,99,172,4,1,11.309187938890856,13.589102208122126,False,True,False,True,High
+ISS-0826,Feature Request,Medium,Frontend,4,7,2,1,97,347,3,3,28.303424113040162,49.17024852067601,False,False,True,True,High
+ISS-0827,Enhancement,Medium,Mobile,10,5,7,8,111,240,3,1,20.439727502961716,23.86147170609693,False,False,True,True,High
+ISS-0828,Enhancement,Medium,Backend,2,4,4,4,108,82,5,4,8.585177907014803,15.334482806704212,False,True,False,True,High
+ISS-0829,Feature Request,Medium,Mobile,1,2,6,3,115,344,2,1,13.658701618097163,,False,True,False,False,High
+ISS-0830,Feature Request,Low,API,2,7,5,3,96,218,10,2,10.419462859162612,,False,True,False,False,High
+ISS-0831,Feature Request,Medium,Backend,4,7,8,6,104,67,4,4,2.216226238428195,,False,True,False,False,High
+ISS-0832,Feature Request,High,Frontend,10,1,9,4,95,220,5,1,23.714786457370916,,False,True,False,False,High
+ISS-0833,Documentation,Medium,Mobile,4,4,8,8,80,142,4,4,7.181337369250093,7.936425752469326,False,True,False,True,High
+ISS-0834,Feature Request,Critical,Database,8,6,7,2,91,178,5,1,5.201058434257639,5.192054751221326,False,True,False,True,High
+ISS-0835,Performance,Critical,Backend,10,6,9,10,102,291,8,1,24.742313100835574,42.65296394241108,False,True,True,True,High
+ISS-0836,Enhancement,Medium,Database,10,3,10,7,100,218,5,3,7.484501491718628,9.577675030399073,True,True,False,True,High
+ISS-0837,Documentation,Low,Database,2,3,6,9,100,37,5,4,2.110882476264301,,True,False,False,False,High
+ISS-0838,Documentation,High,Mobile,8,8,5,8,95,36,1,2,6.255462745112937,5.451825433420515,False,True,False,True,High
+ISS-0839,Enhancement,Medium,Infrastructure,6,2,7,2,97,168,5,1,21.47814368154565,,False,False,False,False,High
+ISS-0840,Documentation,High,Frontend,10,2,3,1,113,327,5,1,1.6446691138230127,1.5332188089812921,True,True,True,True,High
+ISS-0841,Bug,Low,Frontend,8,10,3,4,104,323,6,3,4.611043502346657,8.8642837453005,False,True,False,True,High
+ISS-0842,Enhancement,Low,API,5,5,6,7,108,81,4,1,1.4979442417808173,2.224634241758461,True,False,False,True,High
+ISS-0843,Feature Request,High,API,3,7,7,2,106,335,4,3,6.648185042107562,,False,False,False,False,High
+ISS-0844,Bug,Low,API,7,1,3,1,88,140,6,2,4.346766133320163,4.0446670546760135,True,False,False,True,High
+ISS-0845,Feature Request,High,Database,3,2,5,2,108,316,3,1,32.18521463403337,,False,True,False,False,High
+ISS-0846,Bug,High,Mobile,2,5,4,9,104,57,7,1,18.669579219102967,35.179270369981545,False,True,False,True,High
+ISS-0847,Security,High,Database,2,8,9,6,104,202,3,1,13.565807068146535,,True,True,True,False,High
+ISS-0848,Bug,Medium,API,8,7,10,1,118,225,2,2,7.598144213915438,,False,True,False,False,High
+ISS-0849,Bug,Low,Backend,4,3,4,7,110,154,6,1,6.663138877763485,12.042928732261595,False,True,False,True,High
+ISS-0850,Security,Medium,Frontend,4,5,2,3,104,315,5,4,22.129587135543012,11.650057268263344,False,False,False,True,High
+ISS-0851,Performance,Critical,Mobile,7,9,8,7,89,252,3,1,2.069313242577807,4.1292739163240055,True,False,False,True,High
+ISS-0852,Bug,Medium,API,5,3,9,6,77,335,4,2,27.932266683640698,40.59889619785037,False,True,False,True,High
+ISS-0853,Performance,Medium,Mobile,9,2,7,5,84,186,8,1,19.09798441514517,33.18085256975727,True,True,False,True,High
+ISS-0854,Security,Critical,API,10,10,8,6,128,284,2,2,1.6288969553783077,1.0296897421619358,False,False,False,True,High
+ISS-0855,Security,Medium,Backend,1,1,3,8,111,84,5,1,1.6412397470136066,2.843255085338254,False,False,False,True,High
+ISS-0856,Bug,Critical,Mobile,9,2,4,2,98,159,3,3,4.2147161362501695,,False,True,False,False,High
+ISS-0857,Bug,Medium,Infrastructure,7,4,2,1,107,208,9,1,11.301050737209527,15.322598168176963,False,True,True,True,High
+ISS-0858,Bug,Medium,Infrastructure,4,4,2,2,94,19,4,3,16.488499094565803,,True,True,False,False,High
+ISS-0859,Security,Low,Database,10,9,7,1,115,312,4,3,18.915533230234974,19.586879385868887,False,True,False,True,High
+ISS-0860,Enhancement,Medium,Frontend,5,3,7,10,96,178,9,1,5.723106929225293,9.737758348038497,False,True,False,True,High
+ISS-0861,Enhancement,Medium,API,4,3,2,5,133,219,7,2,2.346380613551858,4.6901077940221345,False,True,False,True,High
+ISS-0862,Performance,Medium,Mobile,8,7,10,9,87,352,5,1,9.761760394667496,,False,True,False,False,High
+ISS-0863,Enhancement,Medium,Database,1,5,8,4,96,127,2,1,5.457687893478172,6.38276932422119,True,True,False,True,High
+ISS-0864,Bug,High,Backend,7,10,10,3,99,268,9,1,6.355135160726031,,False,True,False,False,High
+ISS-0865,Bug,Medium,API,10,10,2,9,92,45,8,1,1.588186425664487,1.9221230800611242,False,True,False,True,High
+ISS-0866,Bug,Critical,Mobile,8,8,5,1,116,291,2,2,24.470372257385918,23.444739600066406,False,True,False,True,High
+ISS-0867,Bug,Medium,Infrastructure,8,6,3,8,103,229,5,1,5.160615907257362,4.471340523594297,False,True,False,True,High
+ISS-0868,Security,High,Backend,4,8,2,1,107,206,9,1,4.832913816644147,6.977762109881782,True,True,False,True,High
+ISS-0869,Performance,Medium,Infrastructure,5,6,6,8,99,65,3,2,21.536508634566175,27.01850245221231,False,False,False,True,High
+ISS-0870,Bug,Critical,Infrastructure,5,9,9,8,93,13,5,2,15.139530745530196,21.434302878728182,False,True,False,True,High
+ISS-0871,Enhancement,Medium,Mobile,7,7,7,2,92,20,5,1,5.984190531172266,,True,True,False,False,High
+ISS-0872,Bug,Medium,Frontend,1,5,9,7,90,159,3,1,16.063700855331145,31.72891033615078,False,True,False,True,High
+ISS-0873,Feature Request,Medium,API,3,5,5,10,96,202,2,2,3.3637765877218877,6.2785964674124495,False,False,True,True,High
+ISS-0874,Performance,High,Backend,10,3,1,9,104,333,7,1,6.952122648481086,10.070230030505572,True,True,True,True,High
+ISS-0875,Bug,Critical,Frontend,1,9,5,4,97,286,7,3,22.312048330922806,38.117376217745566,False,False,False,True,High
+ISS-0876,Feature Request,Medium,Database,2,5,4,7,112,255,3,1,8.850043959740535,,False,True,False,False,High
+ISS-0877,Bug,Medium,Frontend,3,6,2,10,93,90,2,3,25.765071318516206,,False,True,False,False,High
+ISS-0878,Documentation,Medium,Backend,1,5,4,10,107,152,3,3,6.318214164591167,,True,True,False,False,High
+ISS-0879,Performance,High,Infrastructure,1,2,2,2,113,269,4,1,6.601939081721285,9.305078006625731,True,True,False,True,High
+ISS-0880,Security,High,Mobile,3,8,6,3,94,255,6,2,11.57729219240754,16.092615430877714,True,False,False,True,High
+ISS-0881,Bug,Medium,Frontend,3,2,10,6,93,336,5,1,1.9334933529554612,2.9755071311232593,False,True,False,True,High
+ISS-0882,Enhancement,High,Backend,1,1,1,9,114,158,5,3,3.5528517012141556,5.484315142761257,False,True,False,True,High
+ISS-0883,Documentation,Low,Backend,4,1,10,9,100,127,8,1,1.0513142372354871,2.0689872393879893,True,False,False,True,High
+ISS-0884,Documentation,High,Database,6,9,7,1,105,135,2,1,4.082680146632937,7.550418128497905,False,True,False,True,High
+ISS-0885,Bug,High,Infrastructure,1,2,3,6,89,168,5,3,10.959334526799823,15.448139134368622,True,True,False,True,High
+ISS-0886,Bug,Medium,Backend,9,6,8,7,115,6,4,4,3.082675204379372,5.762514482982549,False,True,False,True,High
+ISS-0887,Documentation,Low,Mobile,8,5,1,2,115,311,6,2,3.2083801382482737,,False,True,True,False,High
+ISS-0888,Feature Request,Medium,API,10,2,4,4,98,246,4,3,9.08255044917059,12.75146241709455,False,True,False,True,High
+ISS-0889,Documentation,Low,Database,5,8,8,4,103,290,7,2,7.01116281416758,13.413651322749212,False,True,False,True,High
+ISS-0890,Feature Request,Low,Infrastructure,8,4,5,5,110,243,6,1,18.869791348595115,16.328404432124167,False,False,True,True,High
+ISS-0891,Security,High,Database,2,10,8,6,122,236,7,1,2.2962907480500787,1.599511892722089,True,True,True,True,High
+ISS-0892,Performance,Medium,API,2,10,3,9,102,172,3,1,5.2669464365599366,,True,False,False,False,High
+ISS-0893,Feature Request,Medium,API,3,7,8,3,109,82,2,1,4.390380313178201,,False,True,False,False,High
+ISS-0894,Security,High,Mobile,3,2,6,6,116,23,4,1,15.045185610221786,,True,True,False,False,High
+ISS-0895,Documentation,High,Frontend,8,10,10,6,106,262,7,2,8.646250973962278,16.620779834590945,False,False,False,True,High
+ISS-0896,Feature Request,Low,Infrastructure,8,2,9,3,100,6,8,1,19.824160181310212,16.65765982747198,False,False,False,True,High
+ISS-0897,Feature Request,Low,API,5,7,8,2,117,36,4,2,36.54171036885244,,False,True,False,False,High
+ISS-0898,Feature Request,Low,API,2,2,7,3,97,117,7,1,6.881324745938351,6.441617334144596,False,False,False,True,High
+ISS-0899,Enhancement,Medium,Backend,1,5,3,7,103,311,4,1,1.957213269966818,,True,True,False,False,High
+ISS-0900,Enhancement,Low,Backend,9,5,7,4,99,295,6,1,4.760783554193824,5.352460834544214,False,True,False,True,High
+ISS-0901,Feature Request,Low,Frontend,2,6,2,4,86,73,6,1,3.0824541341952303,,True,True,False,False,High
+ISS-0902,Feature Request,Medium,Backend,1,8,8,8,91,253,7,1,13.636652906736995,,False,True,False,False,High
+ISS-0903,Feature Request,Medium,Database,6,8,3,1,76,11,5,2,4.84727991665132,6.919360978323305,False,True,False,True,High
+ISS-0904,Documentation,High,Frontend,4,2,1,8,112,242,5,2,2.0993622701723003,1.249486556331163,True,True,False,True,High
+ISS-0905,Feature Request,High,Frontend,6,6,1,8,79,109,7,1,3.1272944910422273,2.080997457792901,False,False,False,True,High
+ISS-0906,Documentation,Critical,Infrastructure,9,6,7,1,104,329,2,4,1.6687240151314424,2.461294387284863,True,True,False,True,High
+ISS-0907,Feature Request,High,Infrastructure,9,2,9,3,101,138,7,1,3.8071866031937422,5.957990649846886,True,True,False,True,High
+ISS-0908,Enhancement,Medium,Mobile,8,5,3,6,97,207,6,1,7.603453412960278,12.615722980433516,False,True,True,True,High
+ISS-0909,Bug,Critical,API,8,10,3,3,117,232,3,2,7.042969992801132,10.749308868687258,False,True,False,True,High
+ISS-0910,Security,High,Database,2,9,6,8,89,172,6,1,5.145168163749316,10.02587752326532,False,True,False,True,High
+ISS-0911,Enhancement,High,Database,8,5,3,6,112,292,7,2,14.629785687260505,13.366549660670618,False,False,True,True,High
+ISS-0912,Bug,Low,API,9,5,5,3,113,26,6,3,1.7995295846060788,2.9658166912432353,True,True,False,True,High
+ISS-0913,Feature Request,Medium,Mobile,9,4,2,9,100,316,5,1,28.206460779761247,,False,True,False,False,High
+ISS-0914,Bug,Medium,Frontend,4,10,7,4,82,26,2,2,6.203236233390101,5.660370526955608,False,True,False,True,High
+ISS-0915,Feature Request,High,API,4,6,4,4,105,3,5,1,8.337101891231587,9.61516845879018,True,True,False,True,High
+ISS-0916,Feature Request,High,Mobile,10,8,8,6,86,150,0,2,48.487780576954115,70.12375895214167,False,True,False,True,High
+ISS-0917,Feature Request,High,Mobile,7,10,4,6,96,328,3,3,10.925050348448405,19.850008257476446,False,True,True,True,High
+ISS-0918,Documentation,Low,Frontend,3,9,1,1,90,286,6,3,4.573719049563635,8.676663271392002,False,True,True,True,High
+ISS-0919,Bug,Medium,API,10,5,8,1,97,104,6,2,12.877489070058914,23.87741162506989,True,True,True,True,High
+ISS-0920,Enhancement,Medium,Database,9,6,8,5,102,186,5,3,1.8387055172557507,0.923773288707892,True,False,False,True,High
+ISS-0921,Bug,Medium,Database,10,4,1,6,101,21,9,1,4.372923096089998,,True,False,False,False,High
+ISS-0922,Security,Low,API,9,2,1,4,94,302,8,4,9.30723028775988,6.089994111862872,False,True,False,True,High
+ISS-0923,Enhancement,High,Backend,7,4,5,8,120,159,5,1,27.233131480243895,49.998953043522725,True,True,True,True,High
+ISS-0924,Bug,Critical,Frontend,6,10,7,9,88,360,8,2,8.628756223544624,13.629886286550516,True,False,False,True,High
+ISS-0925,Bug,High,Database,4,2,4,7,100,213,5,1,4.563842573150058,2.797544511739494,False,True,False,True,High
+ISS-0926,Enhancement,Medium,Backend,2,6,8,5,101,137,10,4,6.665669983810028,,False,True,False,False,High
+ISS-0927,Feature Request,Low,Frontend,3,4,10,6,97,178,4,1,1.0697363327051752,1.0656044020950586,False,True,False,True,High
+ISS-0928,Enhancement,Medium,API,4,5,7,10,112,356,6,4,2.4295011090777194,3.4203800125160355,True,True,False,True,High
+ISS-0929,Bug,Medium,Database,1,6,8,9,79,22,8,1,3.5013524190943213,4.420211142532716,False,True,False,True,High
+ISS-0930,Feature Request,Low,Database,6,10,8,5,113,181,2,2,8.733316648822928,,False,False,False,False,High
+ISS-0931,Bug,Critical,Mobile,4,4,10,9,103,316,3,3,2.2029807695482244,3.6642678692032162,True,False,False,True,High
+ISS-0932,Enhancement,Medium,Database,8,9,9,10,112,272,6,4,1.0803523828130024,,False,True,False,False,High
+ISS-0933,Bug,Medium,Backend,3,10,5,9,90,270,2,5,7.970304381868875,7.375307002684703,True,True,False,True,High
+ISS-0934,Enhancement,High,Infrastructure,3,10,2,6,94,298,2,2,10.679277019163827,20.912960274088302,True,True,False,True,High
+ISS-0935,Bug,High,Frontend,1,2,3,9,107,346,7,3,47.01064102687268,28.10526434654645,False,True,False,True,High
+ISS-0936,Bug,Medium,Backend,9,2,2,2,110,191,3,3,5.250581373541722,3.8386537877027562,True,True,False,True,High
+ISS-0937,Bug,Medium,Database,2,8,8,5,100,194,5,2,16.9100212814122,13.86371980964059,False,True,True,True,High
+ISS-0938,Bug,Medium,Infrastructure,8,4,2,9,100,238,6,1,9.342068182869694,5.995046297590289,False,True,False,True,High
+ISS-0939,Enhancement,Critical,Infrastructure,4,7,2,5,111,296,5,1,13.444217803009655,9.286805829607015,True,True,False,True,High
+ISS-0940,Bug,Medium,API,2,10,3,5,101,124,8,2,8.229658756496306,6.686591865592794,False,True,False,True,High
+ISS-0941,Bug,Low,Frontend,8,3,1,3,95,123,6,1,2.1035395212928245,,True,True,False,False,High
+ISS-0942,Bug,Medium,Frontend,7,10,2,10,104,327,8,3,5.009750734173568,7.831289674552959,False,True,False,True,High
+ISS-0943,Performance,Critical,Infrastructure,9,2,6,8,110,67,8,4,2.9047027011446263,2.1015896283844873,False,True,False,True,High
+ISS-0944,Feature Request,High,Backend,4,7,10,4,96,5,2,1,5.313622346151059,,False,True,False,False,High
+ISS-0945,Bug,High,Backend,7,6,6,7,103,156,2,2,2.95854965389812,,False,False,False,False,High
+ISS-0946,Bug,Medium,Mobile,9,7,7,8,103,364,5,1,1.1569917529053697,,False,True,False,False,High
+ISS-0947,Feature Request,Medium,Backend,6,4,9,7,98,117,9,3,13.602784782660736,,False,True,False,False,High
+ISS-0948,Bug,Medium,Database,6,1,4,5,97,194,8,1,11.441263594786506,6.146837300692024,False,False,False,True,High
+ISS-0949,Feature Request,High,Infrastructure,10,10,8,1,88,176,5,2,13.089994515764477,,False,True,False,False,High
+ISS-0950,Performance,High,Database,9,8,8,1,94,122,3,1,8.337422712080542,6.653187893550812,True,False,True,True,High
+ISS-0951,Security,High,Backend,6,10,10,6,98,185,8,2,14.696177525440921,,False,True,False,False,High
+ISS-0952,Documentation,High,Frontend,5,6,2,2,94,252,5,1,8.686882499692608,7.123746281736781,False,True,True,True,High
+ISS-0953,Enhancement,Critical,Database,7,5,4,8,85,15,9,1,19.0547436295275,28.284335860596112,False,True,False,True,High
+ISS-0954,Feature Request,Medium,Database,7,10,9,5,101,312,6,1,1.3806036264998642,1.678136395118132,True,False,False,True,High
+ISS-0955,Enhancement,High,Frontend,9,3,10,10,111,284,3,1,2.378743574374209,,False,True,False,False,High
+ISS-0956,Feature Request,High,Infrastructure,5,10,5,3,104,282,4,1,6.378058117100831,12.457025065127935,True,True,True,True,High
+ISS-0957,Documentation,Critical,Frontend,1,9,1,3,107,62,4,3,1.502433617993689,,False,True,True,False,High
+ISS-0958,Bug,High,API,9,1,9,6,112,270,4,1,4.632718904919933,6.493644973741005,False,True,False,True,High
+ISS-0959,Feature Request,Medium,Database,2,9,9,5,100,327,5,1,12.704754606005581,15.99225334385164,False,True,True,True,High
+ISS-0960,Documentation,Low,API,1,6,1,4,108,229,2,1,5.030413888525912,4.72418612398933,True,True,True,True,High
+ISS-0961,Bug,Critical,Infrastructure,9,3,5,9,105,24,5,2,4.511052494314551,8.8743017676659,False,True,False,True,High
+ISS-0962,Bug,Low,Database,5,6,5,5,109,280,11,1,15.463259045204161,,True,False,False,False,High
+ISS-0963,Feature Request,Medium,Mobile,2,1,9,5,89,203,8,1,9.66138043252763,,False,True,False,False,High
+ISS-0964,Security,High,API,4,4,9,6,95,125,8,1,12.92827233216746,,False,True,False,False,High
+ISS-0965,Bug,Critical,API,8,8,1,3,105,236,1,2,19.764802059934194,37.098876216786856,False,True,False,True,High
+ISS-0966,Bug,Medium,API,6,5,3,5,106,142,5,1,3.993257528464695,,True,True,True,False,High
+ISS-0967,Feature Request,Medium,API,5,5,10,2,125,348,6,1,4.353952247195764,,True,False,True,False,High
+ISS-0968,Enhancement,Medium,API,2,1,9,4,102,38,4,1,19.643845866315893,18.100656367610874,False,True,False,True,High
+ISS-0969,Documentation,High,Frontend,5,3,8,5,86,156,2,1,21.66923845328356,12.80572068154604,False,True,False,True,High
+ISS-0970,Enhancement,Medium,Infrastructure,8,5,1,10,99,213,10,1,25.441754531696034,20.0140018969496,False,True,False,True,High
+ISS-0971,Performance,Low,Mobile,8,7,1,3,106,350,4,2,6.048690820349714,11.189625697064528,False,False,False,True,High
+ISS-0972,Feature Request,Medium,API,4,5,7,4,103,152,1,3,6.42473843447649,12.480796673493243,False,True,False,True,High
+ISS-0973,Feature Request,High,Database,6,4,9,1,131,25,8,2,31.19614694183263,,False,False,False,False,High
+ISS-0974,Enhancement,Medium,Backend,4,9,7,6,92,196,6,3,16.42256918489235,,False,False,True,False,High
+ISS-0975,Bug,Low,API,3,5,3,10,96,291,3,1,14.6856546905204,17.776942934763863,False,True,False,True,High
+ISS-0976,Bug,Medium,Backend,9,3,10,4,93,143,3,1,6.908733399580774,5.230945502169581,False,True,False,True,High
+ISS-0977,Performance,Low,Frontend,2,10,6,1,111,109,2,2,2.4047969153040754,2.7762381108354184,True,True,False,True,High
+ISS-0978,Bug,High,Backend,3,2,2,10,87,110,6,2,12.944944674517773,18.706865436032587,False,True,False,True,High
+ISS-0979,Bug,Medium,Database,7,10,3,7,98,116,5,2,3.9411661817951322,3.298461983403818,False,True,False,True,High
+ISS-0980,Bug,Low,API,10,6,9,1,108,15,4,1,4.948438530435279,4.1811142365118386,False,True,False,True,High
+ISS-0981,Performance,Medium,API,8,6,10,10,80,27,5,3,17.952565239903947,,False,True,False,False,High
+ISS-0982,Bug,Medium,API,9,6,6,4,102,46,4,1,2.8230837570805685,,False,True,False,False,High
+ISS-0983,Feature Request,High,Mobile,4,4,1,3,99,88,3,1,5.724163255434216,11.243814176161333,True,True,False,True,High
+ISS-0984,Bug,Medium,Frontend,4,8,2,8,107,76,8,3,15.669471461101136,,False,True,True,False,High
+ISS-0985,Documentation,Medium,Frontend,10,3,3,3,107,260,4,2,3.1810262124199356,,False,True,False,False,High
+ISS-0986,Bug,Low,Frontend,7,4,10,5,99,330,2,3,9.057537386024643,6.087035016679808,False,False,True,True,High
+ISS-0987,Bug,Medium,Backend,1,6,5,10,98,113,3,2,4.536355549878637,,False,True,True,False,High
+ISS-0988,Documentation,Low,Backend,1,9,5,1,104,81,6,3,1.6198176799056272,1.9860255405771292,False,True,False,True,High
+ISS-0989,Bug,High,Database,8,4,3,1,116,223,4,1,8.460655429300353,,False,True,False,False,High
+ISS-0990,Performance,High,Frontend,5,1,10,10,89,199,5,4,1.1167573320329272,,False,True,False,False,High
+ISS-0991,Enhancement,Low,API,3,3,2,9,107,319,5,1,1.437215354216466,,False,True,False,False,High
+ISS-0992,Enhancement,Medium,Frontend,1,9,4,3,93,356,6,1,10.671975438074012,6.631342687840362,False,True,False,True,High
+ISS-0993,Enhancement,Critical,Mobile,8,2,5,5,129,334,10,2,2.1193702837938555,,False,True,False,False,High
+ISS-0994,Bug,High,API,6,7,6,5,114,350,5,1,3.3324099683721076,,True,False,False,False,High
+ISS-0995,Security,Medium,Backend,8,10,10,10,100,157,7,1,2.3422418311694635,1.5330467436195476,False,False,False,True,High
+ISS-0996,Feature Request,Low,API,8,4,9,3,118,110,8,1,41.18533665062243,54.04870429184525,False,False,False,True,High
+ISS-0997,Feature Request,High,Mobile,6,4,3,1,102,91,7,1,24.66018009620913,,False,True,False,False,High
+ISS-0998,Documentation,High,Mobile,7,1,8,10,106,339,6,4,14.654212237574377,,False,False,False,False,High
+ISS-0999,Documentation,Medium,API,1,9,10,2,84,139,2,2,3.1454890613113045,,False,True,False,False,High
+ISS-1000,Performance,High,Infrastructure,3,8,5,5,92,215,8,1,5.85408924556582,4.78127297722927,False,True,False,True,High
